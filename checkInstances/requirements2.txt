@@ -60,7 +60,7 @@ nagios==0.0.8
 nbconvert==5.3.1
 nbformat==4.4.0
 netaddr==0.7.19
-notebook==5.4.0
+notebook==5.7.8
 oauthlib==3.0.1
 opsview==0.8.7
 p4==0.1.5
