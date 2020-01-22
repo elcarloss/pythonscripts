@@ -50,7 +50,7 @@ Pygments==2.2.0
 pylint==1.6.5
 pyopsview==5.3.1
 pyparsing==2.2.0
-PyYAML==3.12
+PyYAML==5.1
 query-string==0.0.0
 requests==2.10.0
 scandir==1.5
