@@ -1,1 +1,0 @@
-('SearchUrl: ', 'http://tools.internal.gosredirector.ea.com:42125/redirector/getServerList?name=madden-2020-pc$')
