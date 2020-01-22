@@ -52,7 +52,7 @@ pyopsview==5.3.1
 pyparsing==2.2.0
 PyYAML==3.12
 query-string==0.0.0
-requests==2.10.0
+requests==2.20.0
 scandir==1.5
 selenium==3.4.3
 setupfiles==0.0.50
