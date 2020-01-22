@@ -1,0 +1,10 @@
+2018-08-25 07:13:16,527 - poller.poller - INFO - Max worker cpu: 133.8 Max worker mem: 32014336
+2018-08-25 07:13:16,527 - poller.poller - INFO - Average idle workers: 0
+2018-08-25 07:13:16,527 - poller.poller - INFO - Max total worker cpu: 469.3 Max total worker mem: 0.464586348802
+2018-08-25 07:13:16,527 - poller.poller - INFO - Poller Main - CPU Usage: 2.9 - Memory Usage: [%:0.562502182779 RSS:379990016 VMS: 977391616] - Poll Time: 196.513296127
+2018-08-25 07:13:16,527 - poller.poller - INFO - Total metrics sent: 3829553
+2018-08-25 07:13:16,527 - poller.poller - INFO - Successful Submits: 21387(77.3406140383%) Failed Submits: 0(0.0%) No Data: 6266(22.6593859617%) Data Loss: 0
+2018-08-25 07:13:16,528 - poller.poller - INFO - Approximately 0 metrics left in retry queue
+2018-08-25 07:13:16,528 - poller.poller - INFO - Retry queue stats since last cycle: 0 Sent, 0 Attempts
+2018-08-25 07:13:16,528 - poller.poller - INFO - Poll complete
+2018-08-25 07:13:17,531 - poller.carbon_utils - INFO - Sent 14 metrics from poller instrumentation

@@ -1,0 +1,281 @@
+421860-fifa13prapp721.rspc-lhr.ea.com
+calarcon 11363 11362  0 01:17 ?        00:00:00 bash -c hostname ;  ps -ef | egrep -i 'blaze|gos-ops|gos|voipserver|dirtycast|gameserver|cdc-ops|slave|mstr|slav|rdir|Feslconn|TheaterConn|Playnow|Ranking|qos|fesl|poller' 
+calarcon 11366 11363  0 01:17 ?        00:00:00 egrep -i blaze|gos-ops|gos|voipserver|dirtycast|gameserver|cdc-ops|slave|mstr|slav|rdir|feslconn|theaterconn|playnow|ranking|qos|fesl|poller
+PING 37.188.105.58 (37.188.105.58) 56(84) bytes of data.
+64 bytes from 37.188.105.58: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.58: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.58: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.58 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2136ms
+rtt min/avg/max/mdev = 133.504/133.532/133.581/0.423 ms
+PING 37.188.105.59 (37.188.105.59) 56(84) bytes of data.
+64 bytes from 37.188.105.59: icmp_seq=1 ttl=46 time=132 ms
+64 bytes from 37.188.105.59: icmp_seq=2 ttl=46 time=132 ms
+64 bytes from 37.188.105.59: icmp_seq=3 ttl=46 time=132 ms
+
+--- 37.188.105.59 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 132.224/132.331/132.399/0.427 ms
+PING 37.188.105.60 (37.188.105.60) 56(84) bytes of data.
+64 bytes from 37.188.105.60: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.60: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.60: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.60 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2135ms
+rtt min/avg/max/mdev = 133.483/133.559/133.608/0.054 ms
+PING 37.188.105.61 (37.188.105.61) 56(84) bytes of data.
+64 bytes from 37.188.105.61: icmp_seq=1 ttl=46 time=134 ms
+64 bytes from 37.188.105.61: icmp_seq=2 ttl=46 time=134 ms
+64 bytes from 37.188.105.61: icmp_seq=3 ttl=46 time=134 ms
+
+--- 37.188.105.61 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2137ms
+rtt min/avg/max/mdev = 134.772/134.857/134.921/0.306 ms
+PING 37.188.105.62 (37.188.105.62) 56(84) bytes of data.
+64 bytes from 37.188.105.62: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.62: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.62: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.62 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2136ms
+rtt min/avg/max/mdev = 133.785/133.873/133.936/0.064 ms
+PING 37.188.105.64 (37.188.105.64) 56(84) bytes of data.
+
+--- 37.188.105.64 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.93 (37.188.105.93) 56(84) bytes of data.
+
+--- 37.188.105.93 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.94 (37.188.105.94) 56(84) bytes of data.
+
+--- 37.188.105.94 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.95 (37.188.105.95) 56(84) bytes of data.
+
+--- 37.188.105.95 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.96 (37.188.105.96) 56(84) bytes of data.
+
+--- 37.188.105.96 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.98 (37.188.105.98) 56(84) bytes of data.
+
+--- 37.188.105.98 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.99 (37.188.105.99) 56(84) bytes of data.
+
+--- 37.188.105.99 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.100 (37.188.105.100) 56(84) bytes of data.
+
+--- 37.188.105.100 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.101 (37.188.105.101) 56(84) bytes of data.
+
+--- 37.188.105.101 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.102 (37.188.105.102) 56(84) bytes of data.
+
+--- 37.188.105.102 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.103 (37.188.105.103) 56(84) bytes of data.
+64 bytes from 37.188.105.103: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.103: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.103: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.103 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 133.510/133.563/133.643/0.425 ms
+PING 37.188.105.104 (37.188.105.104) 56(84) bytes of data.
+
+--- 37.188.105.104 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.105 (37.188.105.105) 56(84) bytes of data.
+64 bytes from 37.188.105.105: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.105: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.105: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.105 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2137ms
+rtt min/avg/max/mdev = 133.754/133.792/133.859/0.424 ms
+PING 37.188.105.107 (37.188.105.107) 56(84) bytes of data.
+
+--- 37.188.105.107 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.108 (37.188.105.108) 56(84) bytes of data.
+64 bytes from 37.188.105.108: icmp_seq=1 ttl=46 time=134 ms
+64 bytes from 37.188.105.108: icmp_seq=2 ttl=46 time=134 ms
+64 bytes from 37.188.105.108: icmp_seq=3 ttl=46 time=134 ms
+
+--- 37.188.105.108 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2138ms
+rtt min/avg/max/mdev = 134.742/134.796/134.898/0.308 ms
+PING 37.188.105.109 (37.188.105.109) 56(84) bytes of data.
+
+--- 37.188.105.109 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.110 (37.188.105.110) 56(84) bytes of data.
+64 bytes from 37.188.105.110: icmp_seq=1 ttl=46 time=134 ms
+64 bytes from 37.188.105.110: icmp_seq=2 ttl=46 time=134 ms
+64 bytes from 37.188.105.110: icmp_seq=3 ttl=46 time=134 ms
+
+--- 37.188.105.110 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2137ms
+rtt min/avg/max/mdev = 134.851/134.905/134.997/0.065 ms
+PING 37.188.105.111 (37.188.105.111) 56(84) bytes of data.
+64 bytes from 37.188.105.111: icmp_seq=1 ttl=46 time=132 ms
+64 bytes from 37.188.105.111: icmp_seq=2 ttl=46 time=132 ms
+64 bytes from 37.188.105.111: icmp_seq=3 ttl=46 time=132 ms
+
+--- 37.188.105.111 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 132.036/132.090/132.188/0.425 ms
+PING 37.188.105.112 (37.188.105.112) 56(84) bytes of data.
+
+--- 37.188.105.112 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 12000ms
+
+PING 37.188.105.113 (37.188.105.113) 56(84) bytes of data.
+
+--- 37.188.105.113 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.116 (37.188.105.116) 56(84) bytes of data.
+
+--- 37.188.105.116 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.119 (37.188.105.119) 56(84) bytes of data.
+64 bytes from 37.188.105.119: icmp_seq=1 ttl=46 time=132 ms
+64 bytes from 37.188.105.119: icmp_seq=2 ttl=46 time=132 ms
+64 bytes from 37.188.105.119: icmp_seq=3 ttl=46 time=132 ms
+
+--- 37.188.105.119 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 132.069/132.121/132.223/0.072 ms
+PING 37.188.105.126 (37.188.105.126) 56(84) bytes of data.
+64 bytes from 37.188.105.126: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.126: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.126: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.126 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2136ms
+rtt min/avg/max/mdev = 133.554/133.610/133.710/0.306 ms
+PING 37.188.105.131 (37.188.105.131) 56(84) bytes of data.
+
+--- 37.188.105.131 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.132 (37.188.105.132) 56(84) bytes of data.
+
+--- 37.188.105.132 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.133 (37.188.105.133) 56(84) bytes of data.
+
+--- 37.188.105.133 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.135 (37.188.105.135) 56(84) bytes of data.
+
+--- 37.188.105.135 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.151 (37.188.105.151) 56(84) bytes of data.
+
+--- 37.188.105.151 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+
+PING 37.188.105.172 (37.188.105.172) 56(84) bytes of data.
+64 bytes from 37.188.105.172: icmp_seq=1 ttl=46 time=134 ms
+64 bytes from 37.188.105.172: icmp_seq=2 ttl=46 time=134 ms
+64 bytes from 37.188.105.172: icmp_seq=3 ttl=46 time=134 ms
+
+--- 37.188.105.172 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 134.199/134.287/134.406/0.311 ms
+PING 37.188.105.180 (37.188.105.180) 56(84) bytes of data.
+64 bytes from 37.188.105.180: icmp_seq=1 ttl=46 time=135 ms
+64 bytes from 37.188.105.180: icmp_seq=2 ttl=46 time=135 ms
+64 bytes from 37.188.105.180: icmp_seq=3 ttl=46 time=134 ms
+
+--- 37.188.105.180 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2137ms
+rtt min/avg/max/mdev = 134.964/135.075/135.205/0.316 ms
+PING 37.188.105.181 (37.188.105.181) 56(84) bytes of data.
+64 bytes from 37.188.105.181: icmp_seq=1 ttl=46 time=132 ms
+64 bytes from 37.188.105.181: icmp_seq=2 ttl=46 time=132 ms
+64 bytes from 37.188.105.181: icmp_seq=3 ttl=46 time=132 ms
+
+--- 37.188.105.181 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 132.139/132.195/132.271/0.055 ms
+PING 37.188.105.201 (37.188.105.201) 56(84) bytes of data.
+64 bytes from 37.188.105.201: icmp_seq=1 ttl=46 time=134 ms
+64 bytes from 37.188.105.201: icmp_seq=2 ttl=46 time=134 ms
+64 bytes from 37.188.105.201: icmp_seq=3 ttl=46 time=134 ms
+
+--- 37.188.105.201 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2137ms
+rtt min/avg/max/mdev = 134.404/134.472/134.606/0.094 ms
+PING 37.188.105.214 (37.188.105.214) 56(84) bytes of data.
+64 bytes from 37.188.105.214: icmp_seq=1 ttl=46 time=135 ms
+64 bytes from 37.188.105.214: icmp_seq=2 ttl=46 time=134 ms
+64 bytes from 37.188.105.214: icmp_seq=3 ttl=46 time=134 ms
+
+--- 37.188.105.214 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2137ms
+rtt min/avg/max/mdev = 134.856/134.982/135.209/0.453 ms
+PING 37.188.105.222 (37.188.105.222) 56(84) bytes of data.
+64 bytes from 37.188.105.222: icmp_seq=1 ttl=46 time=132 ms
+64 bytes from 37.188.105.222: icmp_seq=2 ttl=46 time=132 ms
+64 bytes from 37.188.105.222: icmp_seq=3 ttl=46 time=132 ms
+
+--- 37.188.105.222 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 132.148/132.223/132.314/0.425 ms
+PING 37.188.105.230 (37.188.105.230) 56(84) bytes of data.
+64 bytes from 37.188.105.230: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.230: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.230: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.230 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2136ms
+rtt min/avg/max/mdev = 133.565/133.662/133.747/0.428 ms
+PING 37.188.105.231 (37.188.105.231) 56(84) bytes of data.
+64 bytes from 37.188.105.231: icmp_seq=1 ttl=46 time=133 ms
+64 bytes from 37.188.105.231: icmp_seq=2 ttl=46 time=133 ms
+64 bytes from 37.188.105.231: icmp_seq=3 ttl=46 time=133 ms
+
+--- 37.188.105.231 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 133.493/133.635/133.795/0.323 ms
+PING 37.188.105.249 (37.188.105.249) 56(84) bytes of data.
+64 bytes from 37.188.105.249: icmp_seq=1 ttl=46 time=132 ms
+64 bytes from 37.188.105.249: icmp_seq=2 ttl=46 time=132 ms
+64 bytes from 37.188.105.249: icmp_seq=3 ttl=46 time=132 ms
+
+--- 37.188.105.249 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2134ms
+rtt min/avg/max/mdev = 132.104/132.151/132.237/0.302 ms
+PING 37.188.105.38 (37.188.105.38) 56(84) bytes of data.
+
+--- 37.188.105.38 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 11999ms
+

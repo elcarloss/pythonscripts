@@ -1,0 +1,207 @@
+('SearchUrl: ', 'http://tools.internal.gosredirector.ea.com:42125/redirector/getServerList?name=madden-2020-pc$')
+Processing, please wait ..... 
+http://m20prod-cos-bm-01.iad1.infery.com:10005/blazecontroller/getStatus
+#
+http://m20prod-cos-bm-02.iad1.infery.com:10005/blazecontroller/getStatus
+##
+http://m20prod-cos-bm-03.iad1.infery.com:10005/blazecontroller/getStatus
+###
+http://m20prod-cos-bm-04.iad1.infery.com:10005/blazecontroller/getStatus
+####
+http://m20prod-master-bm-03.iad1.infery.com:10082/blazecontroller/getStatus
+#####
+http://m20prod-master-bm-03.iad1.infery.com:10010/blazecontroller/getStatus
+######
+http://m20prod-master-bm-03.iad1.infery.com:10064/blazecontroller/getStatus
+#######
+http://m20prod-master-bm-03.iad1.infery.com:10127/blazecontroller/getStatus
+########
+http://m20prod-master-bm-03.iad1.infery.com:10145/blazecontroller/getStatus
+#########
+http://m20prod-master-bm-03.iad1.infery.com:10046/blazecontroller/getStatus
+##########
+http://m20prod-master-bm-03.iad1.infery.com:10037/blazecontroller/getStatus
+###########
+http://m20prod-master-bm-03.iad1.infery.com:10028/blazecontroller/getStatus
+############
+http://m20prod-master-bm-03.iad1.infery.com:10073/blazecontroller/getStatus
+#############
+http://m20prod-master-bm-03.iad1.infery.com:10019/blazecontroller/getStatus
+##############
+http://m20prod-master-bm-03.iad1.infery.com:10055/blazecontroller/getStatus
+###############
+http://m20prod-master-bm-03.iad1.infery.com:10100/blazecontroller/getStatus
+################
+http://m20prod-master-bm-03.iad1.infery.com:10091/blazecontroller/getStatus
+#################
+http://m20prod-master-bm-03.iad1.infery.com:10109/blazecontroller/getStatus
+##################
+http://m20prod-master-bm-03.iad1.infery.com:10136/blazecontroller/getStatus
+###################
+http://m20prod-master-bm-03.iad1.infery.com:10118/blazecontroller/getStatus
+####################
+http://m20prod-cfm-bm-13.iad1.infery.com:10037/blazecontroller/getStatus
+#####################
+http://m20prod-cfm-bm-13.iad1.infery.com:10019/blazecontroller/getStatus
+######################
+http://m20prod-cfm-bm-13.iad1.infery.com:10253/blazecontroller/getStatus
+#######################
+http://m20prod-cfm-bm-13.iad1.infery.com:10064/blazecontroller/getStatus
+########################
+http://m20prod-cfm-bm-13.iad1.infery.com:10055/blazecontroller/getStatus
+#########################
+http://m20prod-cfm-bm-13.iad1.infery.com:10001/blazecontroller/getStatus
+##########################
+http://m20prod-cfm-bm-13.iad1.infery.com:10046/blazecontroller/getStatus
+###########################
+http://m20prod-cfm-bm-13.iad1.infery.com:10010/blazecontroller/getStatus
+############################
+http://m20prod-cfm-bm-13.iad1.infery.com:10091/blazecontroller/getStatus
+#############################
+http://m20prod-cfm-bm-13.iad1.infery.com:10082/blazecontroller/getStatus
+##############################
+http://m20prod-cfm-bm-13.iad1.infery.com:10262/blazecontroller/getStatus
+###############################
+http://m20prod-cfm-bm-13.iad1.infery.com:10028/blazecontroller/getStatus
+################################
+http://m20prod-cfm-bm-13.iad1.infery.com:10073/blazecontroller/getStatus
+#################################
+http://m20prod-cfm-bm-13.iad1.infery.com:10100/blazecontroller/getStatus
+##################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10073/blazecontroller/getStatus
+###################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10046/blazecontroller/getStatus
+####################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10001/blazecontroller/getStatus
+#####################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10019/blazecontroller/getStatus
+######################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10091/blazecontroller/getStatus
+#######################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10055/blazecontroller/getStatus
+########################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10262/blazecontroller/getStatus
+#########################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10028/blazecontroller/getStatus
+##########################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10010/blazecontroller/getStatus
+###########################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10082/blazecontroller/getStatus
+############################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10037/blazecontroller/getStatus
+#############################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10064/blazecontroller/getStatus
+##############################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10253/blazecontroller/getStatus
+###############################################
+http://m20prod-cfm-bm-14.iad1.infery.com:10226/blazecontroller/getStatus
+################################################
+('Boxes Instances: ', [['m20prod-master-bm-03.iad1.infery.com', 17], ['m20prod-cos-bm-02.iad1.infery.com', 1], ['m20prod-cos-bm-01.iad1.infery.com', 1], ['m20prod-cfm-bm-14.iad1.infery.com', 14], ['m20prod-cos-bm-04.iad1.infery.com', 1], ['m20prod-cfm-bm-13.iad1.infery.com', 14], ['m20prod-cos-bm-03.iad1.infery.com', 1]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '15.1.1.8.3')
+('Servicename: ', 'madden-2020-pc')
+('Project Title: ', [u'None'])
+('JiraOTName: ', [u'Madden 2020 PC'])
+('Datacenter: ', [u'unknown'])
+('CL: ', '1532933)')
+('Depot Location: ', 'gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/Madden/2020/Gen4/RL/blazeserver')
+('Build Location: ', '519@m19buildapp001.bio-sjc.ea.com:/opt/home/madden/p4/mansible/Madden/2020/Gen4/RL/blazeserver')
+('Running in the path: ', '/opt/home/madden/madden-2020-pc/build/blaze-20191108T113200/etc')
+
+---------- GENERAL INSTANCES INFO --------- 
++-----------------+------+--------------+-------+--------------------------------------+--------+
+| Instance        | Serv |    Int IP    |  Port |               Dom Name               | Ext IP |
++-----------------+------+--------------+-------+--------------------------------------+--------+
+| mohAuxSlave151  |  1   | 10.76.120.23 | 10037 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave152  |  1   | 10.76.120.23 | 10019 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave153  |  1   | 10.76.120.23 | 10253 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave154  |  1   | 10.76.120.23 | 10064 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave155  |  1   | 10.76.120.23 | 10055 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave156  |  1   | 10.76.120.23 | 10001 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave157  |  1   | 10.76.120.23 | 10046 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave158  |  1   | 10.76.120.23 | 10010 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave159  |  1   | 10.76.120.23 | 10091 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave160  |  1   | 10.76.120.23 | 10082 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave161  |  1   | 10.76.120.23 | 10262 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave162  |  1   | 10.76.120.23 | 10028 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave163  |  1   | 10.76.120.23 | 10073 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave164  |  1   | 10.76.120.23 | 10100 |  m20prod-cfm-bm-13.iad1.infery.com   |        |
+| mohAuxSlave201  |  1   | 10.76.120.24 | 10073 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave202  |  1   | 10.76.120.24 | 10046 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave203  |  1   | 10.76.120.24 | 10001 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave204  |  1   | 10.76.120.24 | 10019 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave205  |  1   | 10.76.120.24 | 10091 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave206  |  1   | 10.76.120.24 | 10055 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave207  |  1   | 10.76.120.24 | 10262 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave208  |  1   | 10.76.120.24 | 10028 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave209  |  1   | 10.76.120.24 | 10010 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave210  |  1   | 10.76.120.24 | 10082 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave211  |  1   | 10.76.120.24 | 10037 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave212  |  1   | 10.76.120.24 | 10064 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave213  |  1   | 10.76.120.24 | 10253 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| mohAuxSlave214  |  1   | 10.76.120.24 | 10226 |  m20prod-cfm-bm-14.iad1.infery.com   |        |
+| coreSlave125    |  1   | 10.76.120.25 | 10005 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave75     |  1   | 10.76.120.26 | 10005 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave50     |  1   | 10.76.120.27 | 10005 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave100    |  1   | 10.76.120.28 | 10005 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| configMaster0   |  1   | 10.76.120.38 | ----- | m20prod-master-bm-03.iad1.infery.com | -----  |
+| coreMaster2     |  1   | 10.76.120.38 | 10010 | m20prod-master-bm-03.iad1.infery.com |        |
+| coreMaster3     |  1   | 10.76.120.38 | 10064 | m20prod-master-bm-03.iad1.infery.com |        |
+| coreNSMaster1   |  1   | 10.76.120.38 | 10082 | m20prod-master-bm-03.iad1.infery.com |        |
+| gdprAuxSlave16  |  1   | 10.76.120.38 | 10118 | m20prod-master-bm-03.iad1.infery.com |        |
+| grSlave4        |  1   | 10.76.120.38 | 10046 | m20prod-master-bm-03.iad1.infery.com |        |
+| grSlave5        |  1   | 10.76.120.38 | 10037 | m20prod-master-bm-03.iad1.infery.com |        |
+| mmSlave8        |  1   | 10.76.120.38 | 10019 | m20prod-master-bm-03.iad1.infery.com |        |
+| mmSlave9        |  1   | 10.76.120.38 | 10055 | m20prod-master-bm-03.iad1.infery.com |        |
+| odtAuxMaster11  |  1   | 10.76.120.38 | 10145 | m20prod-master-bm-03.iad1.infery.com |        |
+| odtAuxSlave14   |  1   | 10.76.120.38 | 10109 | m20prod-master-bm-03.iad1.infery.com |        |
+| odtAuxSlave15   |  1   | 10.76.120.38 | 10136 | m20prod-master-bm-03.iad1.infery.com |        |
+| osdkAuxMaster10 |  1   | 10.76.120.38 | 10127 | m20prod-master-bm-03.iad1.infery.com |        |
+| osdkAuxSlave12  |  1   | 10.76.120.38 | 10100 | m20prod-master-bm-03.iad1.infery.com |        |
+| osdkAuxSlave13  |  1   | 10.76.120.38 | 10091 | m20prod-master-bm-03.iad1.infery.com |        |
+| searchSlave6    |  1   | 10.76.120.38 | 10028 | m20prod-master-bm-03.iad1.infery.com |        |
+| searchSlave7    |  1   | 10.76.120.38 | 10073 | m20prod-master-bm-03.iad1.infery.com |        |
++-----------------+------+--------------+-------+--------------------------------------+--------+
+
+[1;32;40mHosts running in this title: 7
+Current Users in the madden-2020-pc game: 953
+[0;37;40m
+---------------------------------------------------------------------------------------
+
+Ips for coreSlave boxes
++--------------+-----------------------------------+-------------+
+| Internal IP  |          Internal Domain          | External IP |
++--------------+-----------------------------------+-------------+
+| 10.76.120.25 | m20prod-cos-bm-04.iad1.infery.com |             |
+| 10.76.120.26 | m20prod-cos-bm-02.iad1.infery.com |             |
+| 10.76.120.27 | m20prod-cos-bm-01.iad1.infery.com |             |
+| 10.76.120.28 | m20prod-cos-bm-03.iad1.infery.com |             |
++--------------+-----------------------------------+-------------+
+
+Comparison between cfg an redirector instances number
++--------------------------------------+---------------+-----------------+
+|             Host Domain              | Cfg Instances | Redir Instances |
++--------------------------------------+---------------+-----------------+
+|  m20prod-cfm-bm-13.iad1.infery.com   |       30      |        14       |
+|  m20prod-cfm-bm-14.iad1.infery.com   |       30      |        14       |
+|  m20prod-cos-bm-01.iad1.infery.com   |       1       |        1        |
+|  m20prod-cos-bm-02.iad1.infery.com   |       1       |        1        |
+|  m20prod-cos-bm-03.iad1.infery.com   |       1       |        1        |
+|  m20prod-cos-bm-04.iad1.infery.com   |       1       |        1        |
+| m20prod-master-bm-03.iad1.infery.com |       17      |        17       |
++--------------------------------------+---------------+-----------------+
+
+[1;32;40m Number of instances in the cfg file : 81
+[1;32;40m Number of instances used in this title (in redirector): 49
+[1;31;40m
+
+--------------------------------W A R N I N G-----------------------------------------------------
+-------------------------------------------------------------------------------------------------
+The number of instances registered in redirector is different than the specified in the .cfg file
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+[0;37;40m

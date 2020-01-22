@@ -1,0 +1,10 @@
+fifa19-prod-app-pc-01.bio-dub.ea.com
+fifa19-prod-app-pc-02.bio-dub.ea.com
+fifa19-prod-app-pc-03.bio-dub.ea.com
+fifa19-prod-app-pc-04.bio-dub.ea.com
+fifa19-prod-app-ps3-01.bio-dub.ea.com
+fifa19-prod-app-ps3-02.bio-dub.ea.com
+fifa19-prod-app-xbl2-01.bio-dub.ea.com
+fifa19-prod-app-xbl2-02.bio-dub.ea.com
+fifa19-prod-app-nx-01.bio-dub.ea.com
+fifa19-prod-app-nx-02.bio-dub.ea.com

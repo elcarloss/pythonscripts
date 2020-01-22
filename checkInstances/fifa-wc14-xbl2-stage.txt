@@ -1,0 +1,70 @@
+('SearchUrl: ', 'http://internal.gosredirector.stest.ea.com:42125/redirector/getServerList?name=fifa-wc14-xbl2-stage$')
+Processing, please wait ..... 
+http://420359-gosltapp88.rspc-lhr.ea.com:13916/blazecontroller/getStatus
+#
+http://420359-gosltapp88.rspc-lhr.ea.com:11021/blazecontroller/getStatus
+##
+http://420359-gosltapp88.rspc-lhr.ea.com:11031/blazecontroller/getStatus
+###
+http://420359-gosltapp88.rspc-lhr.ea.com:10991/blazecontroller/getStatus
+####
+http://420359-gosltapp88.rspc-lhr.ea.com:11011/blazecontroller/getStatus
+#####
+http://420359-gosltapp88.rspc-lhr.ea.com:11001/blazecontroller/getStatus
+######
+('Boxes Instances: ', [['420359-gosltapp88.rspc-lhr.ea.com', 7]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '13.3.1.5.3')
+('Servicename: ', 'fifa-wc14-xbl2-stage')
+('Project Title: ', [u'None'])
+('JiraOTName: ', [u'Fifa Wc14 XBox 360'])
+('Datacenter: ', [u'rs-lhr'])
+('CL: ', '983702)')
+('Depot Location: ', 'p4serv1.online.ea.com:1777://gosdev/games/FIFA/2014/WorldCup/prod/blazeserver/13.x')
+('Build Location: ', 'fifa@gossdevbeapp0001.abn-sjl.ea.com:/opt/home/fifa/p4/gosdev/games/FIFA/2014/WorldCup/prod/blazeserver/13.x')
+('Running in the path: ', '/opt/home/fifa/worldcup.2014.xbl2-20191211T064823/etc/')
+
+---------- GENERAL INSTANCES INFO --------- 
++----------------+------+-------------+-------+-----------------------------------+----------------+
+| Instance       | Serv |    Int IP   |  Port |              Dom Name             |     Ext IP     |
++----------------+------+-------------+-------+-----------------------------------+----------------+
+| configMaster   |  1   | 10.99.39.88 | ----- | 420359-gosltapp88.rspc-lhr.ea.com |     -----      |
+| coreMaster1    |  1   | 10.99.39.88 | 11021 | 420359-gosltapp88.rspc-lhr.ea.com | 37.188.104.106 |
+| coreSlave1     |  1   | 10.99.39.88 | 13916 | 420359-gosltapp88.rspc-lhr.ea.com | 37.188.104.106 |
+| mmSlave1       |  1   | 10.99.39.88 | 10991 | 420359-gosltapp88.rspc-lhr.ea.com | 37.188.104.106 |
+| osdkAuxMaster1 |  1   | 10.99.39.88 | 11031 | 420359-gosltapp88.rspc-lhr.ea.com | 37.188.104.106 |
+| osdkAuxSlave1  |  1   | 10.99.39.88 | 11011 | 420359-gosltapp88.rspc-lhr.ea.com | 37.188.104.106 |
+| searchSlave1   |  1   | 10.99.39.88 | 11001 | 420359-gosltapp88.rspc-lhr.ea.com | 37.188.104.106 |
++----------------+------+-------------+-------+-----------------------------------+----------------+
+
+[1;32;40mHosts running in this title: 1
+[0;37;40m
+---------------------------------------------------------------------------------------
+
+Ips for coreSlave boxes
++-------------+-----------------------------------+----------------+
+| Internal IP |          Internal Domain          |  External IP   |
++-------------+-----------------------------------+----------------+
+| 10.99.39.88 | 420359-gosltapp88.rspc-lhr.ea.com | 37.188.104.106 |
++-------------+-----------------------------------+----------------+
+
+Comparison between cfg an redirector instances number
++-------------+---------------+-----------------+
+| Host Domain | Cfg Instances | Redir Instances |
++-------------+---------------+-----------------+
++-------------+---------------+-----------------+
+
+[1;32;40m Number of instances in the cfg file : 0
+[1;32;40m Number of instances used in this title (in redirector): 7
+[1;31;40m
+
+--------------------------------W A R N I N G-----------------------------------------------------
+-------------------------------------------------------------------------------------------------
+The number of instances registered in redirector is different than the specified in the .cfg file
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+[0;37;40m

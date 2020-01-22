@@ -1,0 +1,96 @@
+('SearchUrl: ', 'http://tools.internal.gosredirector.ea.com:42125/redirector/getServerList?name=masseffect-3-xbl2$')
+Processing, please wait ..... 
+http://383938-gosprapp401.rspc-lhr.ea.com:11144/blazecontroller/getStatus
+#
+http://383938-gosprapp401.rspc-lhr.ea.com:11156/blazecontroller/getStatus
+##
+http://383938-gosprapp401.rspc-lhr.ea.com:11138/blazecontroller/getStatus
+###
+http://383938-gosprapp401.rspc-lhr.ea.com:11132/blazecontroller/getStatus
+####
+http://383938-gosprapp401.rspc-lhr.ea.com:11150/blazecontroller/getStatus
+#####
+http://383938-gosprapp401.rspc-lhr.ea.com:11162/blazecontroller/getStatus
+######
+http://383939-gosprapp402.rspc-lhr.ea.com:11202/blazecontroller/getStatus
+#######
+http://383939-gosprapp402.rspc-lhr.ea.com:11214/blazecontroller/getStatus
+########
+http://383939-gosprapp402.rspc-lhr.ea.com:11208/blazecontroller/getStatus
+#########
+http://383939-gosprapp402.rspc-lhr.ea.com:11220/blazecontroller/getStatus
+##########
+http://383939-gosprapp402.rspc-lhr.ea.com:11238/blazecontroller/getStatus
+###########
+http://383939-gosprapp402.rspc-lhr.ea.com:11232/blazecontroller/getStatus
+############
+http://383939-gosprapp402.rspc-lhr.ea.com:11244/blazecontroller/getStatus
+#############
+http://383939-gosprapp402.rspc-lhr.ea.com:11226/blazecontroller/getStatus
+##############
+http://383939-gosprapp402.rspc-lhr.ea.com:11268/blazecontroller/getStatus
+###############
+http://383939-gosprapp402.rspc-lhr.ea.com:11262/blazecontroller/getStatus
+################
+http://383939-gosprapp402.rspc-lhr.ea.com:11256/blazecontroller/getStatus
+#################
+http://383939-gosprapp402.rspc-lhr.ea.com:11250/blazecontroller/getStatus
+##################
+http://383938-gosprapp401.rspc-lhr.ea.com:11107/blazecontroller/getStatus
+###################
+http://383938-gosprapp401.rspc-lhr.ea.com:11113/blazecontroller/getStatus
+####################
+http://383938-gosprapp401.rspc-lhr.ea.com:11119/blazecontroller/getStatus
+#####################
+http://383938-gosprapp401.rspc-lhr.ea.com:11125/blazecontroller/getStatus
+######################
+('Boxes Instances: ', [['383939-gosprapp402.rspc-lhr.ea.com', 12], ['383938-gosprapp401.rspc-lhr.ea.com', 11]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '3.15.08.0')
+('Servicename: ', 'masseffect-3-xbl2')
+('Project Title: ', [u'MASS EFFECT 3'])
+('JiraOTName: ', [u'Mass Effect 3 XBox 360'])
+('Datacenter: ', [u'rs-lhr'])
+('CL: ', '1355679)')
+('Depot Location: ', 'gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/MassEffect/3/Gen3/prod/blazeserver/3.x')
+('Build Location: ', 'masseffect@gosrtbprapp0001.bio-sjc.ea.com:/opt/home/masseffect/p4/gosdev/games/MassEffect/3/Gen3/prod/blazeserver/3.x')
+('Running in the path: ', '/opt/home/masseffect/masseffect3.2011.xbl2-20171020T030426/etc')
+
+---------- GENERAL INSTANCES INFO --------- 
++--------------+------+--------------+-------+------------------------------------+--------------+
+| Instance     | Serv |    Int IP    |  Port |              Dom Name              |    Ext IP    |
++--------------+------+--------------+-------+------------------------------------+--------------+
+| auxMaster1   |  1   | 10.99.20.137 | 11107 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| auxMaster2   |  1   | 10.99.20.137 | 11113 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| auxMaster3   |  1   | 10.99.20.137 | 11119 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| auxMaster4   |  1   | 10.99.20.137 | 11125 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| configMaster |  1   | 10.99.20.137 | ----- | 383938-gosprapp401.rspc-lhr.ea.com |    -----     |
+| slave1       |  1   | 10.99.20.137 | 11132 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| slave2       |  1   | 10.99.20.137 | 11138 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| slave3       |  1   | 10.99.20.137 | 11144 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| slave4       |  1   | 10.99.20.137 | 11150 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| slave5       |  1   | 10.99.20.137 | 11156 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| slave6       |  1   | 10.99.20.137 | 11162 | 383938-gosprapp401.rspc-lhr.ea.com | 92.52.77.250 |
+| slave10      |  1   | 10.99.20.138 | 11220 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave11      |  1   | 10.99.20.138 | 11226 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave12      |  1   | 10.99.20.138 | 11232 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave13      |  1   | 10.99.20.138 | 11238 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave14      |  1   | 10.99.20.138 | 11244 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave15      |  1   | 10.99.20.138 | 11250 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave16      |  1   | 10.99.20.138 | 11256 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave17      |  1   | 10.99.20.138 | 11262 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave18      |  1   | 10.99.20.138 | 11268 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave7       |  1   | 10.99.20.138 | 11202 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave8       |  1   | 10.99.20.138 | 11208 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
+| slave9       |  1   | 10.99.20.138 | 11214 | 383939-gosprapp402.rspc-lhr.ea.com | 92.52.77.251 |
++--------------+------+--------------+-------+------------------------------------+--------------+
+
+[1;32;40mHosts running in this title: 2
+Current Users in the masseffect-3-xbl2 game: 329
+[0;37;40m
+---------------------------------------------------------------------------------------
+
+Ips for coreSlave boxes

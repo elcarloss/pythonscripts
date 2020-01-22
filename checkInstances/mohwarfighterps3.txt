@@ -1,0 +1,80 @@
+('SearchUrl: ', 'http://tools.internal.gosredirector.ea.com:42125/redirector/getServerList?name=moh-warfighter-ps3$')
+Processing, please wait ..... 
+http://423358-gosprapp918.rspc-lhr.ea.com:10185/blazecontroller/getStatus
+#
+http://423358-gosprapp918.rspc-lhr.ea.com:10225/blazecontroller/getStatus
+##
+http://423358-gosprapp918.rspc-lhr.ea.com:10285/blazecontroller/getStatus
+###
+http://423358-gosprapp918.rspc-lhr.ea.com:10275/blazecontroller/getStatus
+####
+http://423358-gosprapp918.rspc-lhr.ea.com:10231/blazecontroller/getStatus
+#####
+http://423358-gosprapp918.rspc-lhr.ea.com:10161/blazecontroller/getStatus
+######
+http://423358-gosprapp918.rspc-lhr.ea.com:10211/blazecontroller/getStatus
+#######
+http://423358-gosprapp918.rspc-lhr.ea.com:10191/blazecontroller/getStatus
+########
+http://423358-gosprapp918.rspc-lhr.ea.com:10251/blazecontroller/getStatus
+#########
+('Boxes Instances: ', [['423358-gosprapp918.rspc-lhr.ea.com', 10]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '3.19.08.2')
+('Servicename: ', 'moh-warfighter-ps3')
+('Project Title: ', [u'MEDAL OF HONOR: WARFIGHTER'])
+('JiraOTName: ', [u'MoH Warfighter Playstation 3'])
+('Datacenter: ', [u'rs-lhr'])
+('CL: ', '1091913)')
+('Depot Location: ', 'gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/MoH/Warfighter/Gen3/prod/blazeserver/3.x')
+('Build Location: ', 'moh@gosrtbprapp0001.bio-sjc.ea.com:/opt/home/moh/p4/gosdev/games/MoH/Warfighter/Gen3/prod/blazeserver/3.x')
+('Running in the path: ', '/opt/home/moh/moh.warfighter.ps3-20150708T100116/etc')
+
+---------- GENERAL INSTANCES INFO --------- 
++--------------+------+---------------+-------+------------------------------------+---------------+
+| Instance     | Serv |     Int IP    |  Port |              Dom Name              |     Ext IP    |
++--------------+------+---------------+-------+------------------------------------+---------------+
+| configMaster |  1   | 10.99.140.119 | ----- | 423358-gosprapp918.rspc-lhr.ea.com |     -----     |
+| coreMaster1  |  1   | 10.99.140.119 | 10161 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| coreSlave1   |  1   | 10.99.140.119 | 10185 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| coreSlave2   |  1   | 10.99.140.119 | 10225 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| coreSlave3   |  1   | 10.99.140.119 | 10285 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| coreSlave4   |  1   | 10.99.140.119 | 10275 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| mmSlave1     |  1   | 10.99.140.119 | 10211 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| mohwMaster1  |  1   | 10.99.140.119 | 10231 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| mohwSlave1   |  1   | 10.99.140.119 | 10191 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
+| searchSlave1 |  1   | 10.99.140.119 | 10251 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
++--------------+------+---------------+-------+------------------------------------+---------------+
+
+[1;32;40mHosts running in this title: 1
+Current Users in the moh-warfighter-ps3 game: 6
+[0;37;40m
+---------------------------------------------------------------------------------------
+
+Ips for coreSlave boxes
++---------------+------------------------------------+---------------+
+|  Internal IP  |          Internal Domain           |  External IP  |
++---------------+------------------------------------+---------------+
+| 10.99.140.119 | 423358-gosprapp918.rspc-lhr.ea.com | 92.52.124.102 |
++---------------+------------------------------------+---------------+
+
+Comparison between cfg an redirector instances number
++-------------+---------------+-----------------+
+| Host Domain | Cfg Instances | Redir Instances |
++-------------+---------------+-----------------+
++-------------+---------------+-----------------+
+
+[1;32;40m Number of instances in the cfg file : 0
+[1;32;40m Number of instances used in this title (in redirector): 10
+[1;31;40m
+
+--------------------------------W A R N I N G-----------------------------------------------------
+-------------------------------------------------------------------------------------------------
+The number of instances registered in redirector is different than the specified in the .cfg file
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+[0;37;40m

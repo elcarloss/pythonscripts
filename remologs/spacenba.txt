@@ -1,0 +1,5 @@
+http://tools.internal.gosredirector.ea.com:42125
+nba-2016-ps4
+df -h /opt
+u"Host gosprapp1511.bio-dub.ea.com - output: Filesystem           Size  Used Avail Use% Mounted on'"
+u"Host gosprapp1511.bio-dub.ea.com - output: /dev/mapper/Sys-opt  148G   24G  117G  17% /opt'"

@@ -1,0 +1,264 @@
+('SearchUrl: ', 'http://tools.internal.gosredirector.ea.com:42125/redirector/getServerList?name=nhl-2020-ps4$')
+Processing, please wait ..... 
+http://nhl20prblapp-01.bio-dub.ea.com:10653/blazecontroller/getStatus
+#
+http://nhl20prblapp-01.bio-dub.ea.com:10536/blazecontroller/getStatus
+##
+http://nhl20prblapp-01.bio-dub.ea.com:10620/blazecontroller/getStatus
+###
+http://nhl20prblapp-01.bio-dub.ea.com:10605/blazecontroller/getStatus
+####
+http://nhl20prblapp-01.bio-dub.ea.com:10551/blazecontroller/getStatus
+#####
+http://nhl20prblapp-01.bio-dub.ea.com:10695/blazecontroller/getStatus
+######
+http://nhl20prblapp-01.bio-dub.ea.com:10488/blazecontroller/getStatus
+#######
+http://nhl20prblapp-01.bio-dub.ea.com:10503/blazecontroller/getStatus
+########
+http://nhl20prblapp-01.bio-dub.ea.com:10719/blazecontroller/getStatus
+#########
+http://nhl20prblapp-01.bio-dub.ea.com:10566/blazecontroller/getStatus
+##########
+http://nhl20prblapp-01.bio-dub.ea.com:10590/blazecontroller/getStatus
+###########
+http://nhl20prblapp-01.bio-dub.ea.com:10734/blazecontroller/getStatus
+############
+http://nhl20prblapp-02.bio-dub.ea.com:10557/blazecontroller/getStatus
+#############
+http://nhl20prblapp-02.bio-dub.ea.com:10485/blazecontroller/getStatus
+##############
+http://nhl20prblapp-02.bio-dub.ea.com:10590/blazecontroller/getStatus
+###############
+http://nhl20prblapp-02.bio-dub.ea.com:10455/blazecontroller/getStatus
+################
+http://nhl20prblapp-02.bio-dub.ea.com:10398/blazecontroller/getStatus
+#################
+http://nhl20prblapp-02.bio-dub.ea.com:10542/blazecontroller/getStatus
+##################
+http://nhl20prblapp-02.bio-dub.ea.com:10500/blazecontroller/getStatus
+###################
+http://nhl20prblapp-02.bio-dub.ea.com:10422/blazecontroller/getStatus
+####################
+http://nhl20prblapp-02.bio-dub.ea.com:10359/blazecontroller/getStatus
+#####################
+http://nhl20prblapp-02.bio-dub.ea.com:10470/blazecontroller/getStatus
+######################
+http://nhl20prblapp-02.bio-dub.ea.com:10344/blazecontroller/getStatus
+#######################
+http://nhl20prblapp-02.bio-dub.ea.com:10383/blazecontroller/getStatus
+########################
+http://nhl20prblapp-05.bio-dub.ea.com:10035/blazecontroller/getStatus
+#########################
+http://nhl20prblapp-05.bio-dub.ea.com:10005/blazecontroller/getStatus
+##########################
+http://nhl20prblapp-05.bio-dub.ea.com:10095/blazecontroller/getStatus
+###########################
+http://nhl20prblapp-05.bio-dub.ea.com:10065/blazecontroller/getStatus
+############################
+http://nhl20prblapp-05.bio-dub.ea.com:10155/blazecontroller/getStatus
+#############################
+http://nhl20prblapp-05.bio-dub.ea.com:10020/blazecontroller/getStatus
+##############################
+http://nhl20prblapp-05.bio-dub.ea.com:10125/blazecontroller/getStatus
+###############################
+http://nhl20prblapp-05.bio-dub.ea.com:10050/blazecontroller/getStatus
+################################
+http://nhl20prblapp-05.bio-dub.ea.com:10140/blazecontroller/getStatus
+#################################
+http://nhl20prblapp-05.bio-dub.ea.com:10080/blazecontroller/getStatus
+##################################
+http://nhl20prblapp-05.bio-dub.ea.com:10170/blazecontroller/getStatus
+###################################
+http://nhl20prblapp-05.bio-dub.ea.com:10110/blazecontroller/getStatus
+####################################
+http://nhl20prblapp-01.bio-dub.ea.com:10412/blazecontroller/getStatus
+#####################################
+http://nhl20prblapp-01.bio-dub.ea.com:10457/blazecontroller/getStatus
+######################################
+http://nhl20prblapp-01.bio-dub.ea.com:10577/blazecontroller/getStatus
+#######################################
+http://nhl20prblapp-01.bio-dub.ea.com:10631/blazecontroller/getStatus
+########################################
+http://nhl20prblapp-02.bio-dub.ea.com:10433/blazecontroller/getStatus
+#########################################
+http://nhl20prblapp-05.bio-dub.ea.com:10181/blazecontroller/getStatus
+##########################################
+http://nhl20prblapp-05.bio-dub.ea.com:10190/blazecontroller/getStatus
+###########################################
+http://nhl20prblapp-01.bio-dub.ea.com:10475/blazecontroller/getStatus
+############################################
+http://nhl20prblapp-01.bio-dub.ea.com:10466/blazecontroller/getStatus
+#############################################
+http://nhl20prblapp-01.bio-dub.ea.com:10403/blazecontroller/getStatus
+##############################################
+http://nhl20prblapp-01.bio-dub.ea.com:10523/blazecontroller/getStatus
+###############################################
+http://nhl20prblapp-01.bio-dub.ea.com:10706/blazecontroller/getStatus
+################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10448/blazecontroller/getStatus
+#################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10421/blazecontroller/getStatus
+##################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10514/blazecontroller/getStatus
+###################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10673/blazecontroller/getStatus
+####################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10664/blazecontroller/getStatus
+#####################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10682/blazecontroller/getStatus
+######################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10439/blazecontroller/getStatus
+#######################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10640/blazecontroller/getStatus
+########################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10394/blazecontroller/getStatus
+#########################################################
+http://nhl20prblapp-01.bio-dub.ea.com:10430/blazecontroller/getStatus
+##########################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10520/blazecontroller/getStatus
+###########################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10610/blazecontroller/getStatus
+############################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10601/blazecontroller/getStatus
+#############################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10511/blazecontroller/getStatus
+##############################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10370/blazecontroller/getStatus
+###############################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10322/blazecontroller/getStatus
+################################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10529/blazecontroller/getStatus
+#################################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10568/blazecontroller/getStatus
+##################################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10409/blazecontroller/getStatus
+###################################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10313/blazecontroller/getStatus
+####################################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10577/blazecontroller/getStatus
+#####################################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10442/blazecontroller/getStatus
+######################################################################
+http://nhl20prblapp-02.bio-dub.ea.com:10331/blazecontroller/getStatus
+#######################################################################
+('Boxes Instances: ', [['nhl20prblapp-05.bio-dub.ea.com', 14], ['nhl20prblapp-01.bio-dub.ea.com', 32], ['nhl20prblapp-02.bio-dub.ea.com', 26]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '15.1.1.8.3')
+('Servicename: ', 'nhl-2020-ps4')
+('Project Title: ', [u'None'])
+('JiraOTName: ', [u'Nhl 2020 Playstation 4'])
+('Datacenter: ', [u'bio-dub'])
+('CL: ', '1540635)')
+('Depot Location: ', 'gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/NHL/2020/main/prod/blazeserver')
+('Build Location: ', '532@eadpl0041.bio-sjc.ea.com:/opt/home/nhl/p4/gosdev/games/NHL/2020/main/prod/blazeserver')
+('Running in the path: ', '/opt/home/nhl/nhl-2020-ps4/build/blaze-20191217T093154/etc')
+
+---------- GENERAL INSTANCES INFO --------- 
++----------------+------+---------------+-------+--------------------------------+---------------+
+| Instance       | Serv |     Int IP    |  Port |            Dom Name            |     Ext IP    |
++----------------+------+---------------+-------+--------------------------------+---------------+
+| coreMaster212  |  1   | 10.74.235.150 | 10181 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreMaster213  |  1   | 10.74.235.150 | 10190 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave200   |  1   | 10.74.235.150 | 10035 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave201   |  1   | 10.74.235.150 | 10005 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave202   |  1   | 10.74.235.150 | 10095 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave203   |  1   | 10.74.235.150 | 10065 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave204   |  1   | 10.74.235.150 | 10155 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave205   |  1   | 10.74.235.150 | 10020 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave206   |  1   | 10.74.235.150 | 10125 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave207   |  1   | 10.74.235.150 | 10050 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave208   |  1   | 10.74.235.150 | 10140 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave209   |  1   | 10.74.235.150 | 10080 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave210   |  1   | 10.74.235.150 | 10170 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| coreSlave211   |  1   | 10.74.235.150 | 10110 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| configMaster0  |  1   | 10.74.235.151 | ----- | nhl20prblapp-01.bio-dub.ea.com |     -----     |
+| coreMaster2    |  1   | 10.74.235.151 | 10457 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreNSMaster1  |  1   | 10.74.235.151 | 10412 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave20    |  1   | 10.74.235.151 | 10653 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave21    |  1   | 10.74.235.151 | 10536 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave22    |  1   | 10.74.235.151 | 10620 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave23    |  1   | 10.74.235.151 | 10605 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave24    |  1   | 10.74.235.151 | 10551 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave25    |  1   | 10.74.235.151 | 10695 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave26    |  1   | 10.74.235.151 | 10488 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave27    |  1   | 10.74.235.151 | 10503 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave28    |  1   | 10.74.235.151 | 10719 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave29    |  1   | 10.74.235.151 | 10566 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave30    |  1   | 10.74.235.151 | 10590 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreSlave31    |  1   | 10.74.235.151 | 10734 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| gdprAuxSlave8  |  1   | 10.74.235.151 | 10523 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| grSlave7       |  1   | 10.74.235.151 | 10403 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| mmSlave5       |  1   | 10.74.235.151 | 10475 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| mmSlave6       |  1   | 10.74.235.151 | 10466 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxMaster3  |  1   | 10.74.235.151 | 10577 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave12  |  1   | 10.74.235.151 | 10514 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave13  |  1   | 10.74.235.151 | 10673 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave14  |  1   | 10.74.235.151 | 10664 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave15  |  1   | 10.74.235.151 | 10682 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave16  |  1   | 10.74.235.151 | 10439 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave17  |  1   | 10.74.235.151 | 10640 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave18  |  1   | 10.74.235.151 | 10394 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| nhlAuxSlave19  |  1   | 10.74.235.151 | 10430 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| odtAuxMaster4  |  1   | 10.74.235.151 | 10631 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| odtAuxSlave11  |  1   | 10.74.235.151 | 10421 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| searchSlave10  |  1   | 10.74.235.151 | 10448 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| searchSlave9   |  1   | 10.74.235.151 | 10706 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| coreMaster100  |  1   | 10.74.235.156 | 10433 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave114   |  1   | 10.74.235.156 | 10557 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave115   |  1   | 10.74.235.156 | 10485 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave116   |  1   | 10.74.235.156 | 10590 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave117   |  1   | 10.74.235.156 | 10455 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave118   |  1   | 10.74.235.156 | 10398 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave119   |  1   | 10.74.235.156 | 10542 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave120   |  1   | 10.74.235.156 | 10500 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave121   |  1   | 10.74.235.156 | 10422 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave122   |  1   | 10.74.235.156 | 10359 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave123   |  1   | 10.74.235.156 | 10470 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave124   |  1   | 10.74.235.156 | 10344 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| coreSlave125   |  1   | 10.74.235.156 | 10383 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| grSlave103     |  1   | 10.74.235.156 | 10601 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| mmSlave101     |  1   | 10.74.235.156 | 10520 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| mmSlave102     |  1   | 10.74.235.156 | 10610 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave106 |  1   | 10.74.235.156 | 10322 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave107 |  1   | 10.74.235.156 | 10529 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave108 |  1   | 10.74.235.156 | 10568 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave109 |  1   | 10.74.235.156 | 10409 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave110 |  1   | 10.74.235.156 | 10313 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave111 |  1   | 10.74.235.156 | 10577 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave112 |  1   | 10.74.235.156 | 10442 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| nhlAuxSlave113 |  1   | 10.74.235.156 | 10331 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| searchSlave104 |  1   | 10.74.235.156 | 10511 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
+| searchSlave105 |  1   | 10.74.235.156 | 10370 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
++----------------+------+---------------+-------+--------------------------------+---------------+
+
+[1;32;40mHosts running in this title: 3
+Current Users in the nhl-2020-ps4 game: 4676
+[0;37;40m
+---------------------------------------------------------------------------------------
+
+Ips for coreSlave boxes
++---------------+--------------------------------+---------------+
+|  Internal IP  |        Internal Domain         |  External IP  |
++---------------+--------------------------------+---------------+
+| 10.74.235.150 | nhl20prblapp-05.bio-dub.ea.com | 159.153.63.27 |
+| 10.74.235.151 | nhl20prblapp-01.bio-dub.ea.com | 159.153.63.23 |
+| 10.74.235.156 | nhl20prblapp-02.bio-dub.ea.com | 159.153.63.22 |
++---------------+--------------------------------+---------------+
+
+Comparison between cfg an redirector instances number
++--------------------------------+---------------+-----------------+
+|          Host Domain           | Cfg Instances | Redir Instances |
++--------------------------------+---------------+-----------------+
+| nhl20prblapp-01.bio-dub.ea.com |       32      |        32       |
+| nhl20prblapp-02.bio-dub.ea.com |       26      |        26       |
+| nhl20prblapp-05.bio-dub.ea.com |       14      |        14       |
++--------------------------------+---------------+-----------------+
+
+[1;32;40m Number of instances in the cfg file : 72
+[1;32;40m Number of instances used in this title (in redirector): 72
+[1;31;40m
+[0;37;40m

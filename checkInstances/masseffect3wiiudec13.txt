@@ -1,0 +1,138 @@
+('SearchUrl: ', 'http://tools.internal.gosredirector.ea.com:42125/redirector/getServerList?name=masseffect-3-wiiu$')
+Processing, please wait ..... 
+http://369740-gosprapp372.rspc-lhr.ea.com:15540/blazecontroller/getStatus
+#
+http://369740-gosprapp372.rspc-lhr.ea.com:15547/blazecontroller/getStatus
+##
+http://369740-gosprapp372.rspc-lhr.ea.com:15554/blazecontroller/getStatus
+###
+http://369740-gosprapp372.rspc-lhr.ea.com:15561/blazecontroller/getStatus
+####
+http://369740-gosprapp372.rspc-lhr.ea.com:15568/blazecontroller/getStatus
+#####
+http://369742-gosprapp373.rspc-lhr.ea.com:16005/blazecontroller/getStatus
+######
+http://369742-gosprapp373.rspc-lhr.ea.com:16012/blazecontroller/getStatus
+#######
+http://369742-gosprapp373.rspc-lhr.ea.com:16019/blazecontroller/getStatus
+########
+http://369742-gosprapp373.rspc-lhr.ea.com:16026/blazecontroller/getStatus
+#########
+http://369742-gosprapp373.rspc-lhr.ea.com:16033/blazecontroller/getStatus
+##########
+http://369742-gosprapp373.rspc-lhr.ea.com:16040/blazecontroller/getStatus
+###########
+http://369742-gosprapp373.rspc-lhr.ea.com:16047/blazecontroller/getStatus
+############
+http://369742-gosprapp373.rspc-lhr.ea.com:16054/blazecontroller/getStatus
+#############
+http://369742-gosprapp373.rspc-lhr.ea.com:16061/blazecontroller/getStatus
+##############
+http://369742-gosprapp373.rspc-lhr.ea.com:16068/blazecontroller/getStatus
+###############
+http://369742-gosprapp373.rspc-lhr.ea.com:16075/blazecontroller/getStatus
+################
+http://369742-gosprapp373.rspc-lhr.ea.com:16082/blazecontroller/getStatus
+#################
+http://369740-gosprapp372.rspc-lhr.ea.com:15508/blazecontroller/getStatus
+##################
+http://369740-gosprapp372.rspc-lhr.ea.com:15515/blazecontroller/getStatus
+###################
+http://369740-gosprapp372.rspc-lhr.ea.com:15522/blazecontroller/getStatus
+####################
+http://369740-gosprapp372.rspc-lhr.ea.com:15529/blazecontroller/getStatus
+#####################
+http://369740-gosprapp372.rspc-lhr.ea.com:15571/blazecontroller/getStatus
+######################
+http://369740-gosprapp372.rspc-lhr.ea.com:15578/blazecontroller/getStatus
+#######################
+http://369740-gosprapp372.rspc-lhr.ea.com:15585/blazecontroller/getStatus
+########################
+http://369740-gosprapp372.rspc-lhr.ea.com:15592/blazecontroller/getStatus
+#########################
+http://369740-gosprapp372.rspc-lhr.ea.com:15599/blazecontroller/getStatus
+##########################
+http://369740-gosprapp372.rspc-lhr.ea.com:15606/blazecontroller/getStatus
+###########################
+http://369740-gosprapp372.rspc-lhr.ea.com:15613/blazecontroller/getStatus
+############################
+('Boxes Instances: ', [['369740-gosprapp372.rspc-lhr.ea.com', 17], ['369742-gosprapp373.rspc-lhr.ea.com', 12]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '3.19.08.2')
+('Servicename: ', 'masseffect-3-wiiu')
+('Project Title: ', [u'MASS EFFECT 3'])
+('JiraOTName: ', [u'Mass Effect 3 U Wii'])
+('Datacenter: ', [u'rs-lhr'])
+('CL: ', '1526252)')
+('Depot Location: ', 'gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/MassEffect/3/WiiU/prod/blazeserver/3.x')
+('Build Location: ', 'masseffect@gosrtbprapp0001.bio-sjc.ea.com:/opt/home/masseffect/p4/gosdev/games/MassEffect/3/WiiU/prod/blazeserver/3.x')
+('Running in the path: ', '/opt/home/masseffect/masseffect.3.wiiu-20191003T050144/etc')
+
+---------- GENERAL INSTANCES INFO --------- 
++---------------+------+--------------+-------+------------------------------------+--------------+
+| Instance      | Serv |    Int IP    |  Port |              Dom Name              |    Ext IP    |
++---------------+------+--------------+-------+------------------------------------+--------------+
+| configMaster  |  1   | 10.99.20.105 | ----- | 369740-gosprapp372.rspc-lhr.ea.com |    -----     |
+| coreMaster1   |  1   | 10.99.20.105 | 15508 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| coreMaster2   |  1   | 10.99.20.105 | 15515 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| coreSlave1    |  1   | 10.99.20.105 | 15540 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| coreSlave2    |  1   | 10.99.20.105 | 15547 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| coreSlave3    |  1   | 10.99.20.105 | 15554 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| coreSlave4    |  1   | 10.99.20.105 | 15561 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| coreSlave5    |  1   | 10.99.20.105 | 15568 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| gdprAuxSlave1 |  1   | 10.99.20.105 | 15571 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| mmSlave1      |  1   | 10.99.20.105 | 15522 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| mmSlave2      |  1   | 10.99.20.105 | 15529 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| searchSlave1  |  1   | 10.99.20.105 | 15578 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| searchSlave2  |  1   | 10.99.20.105 | 15585 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| searchSlave3  |  1   | 10.99.20.105 | 15592 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| searchSlave4  |  1   | 10.99.20.105 | 15599 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| searchSlave5  |  1   | 10.99.20.105 | 15606 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| searchSlave6  |  1   | 10.99.20.105 | 15613 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| coreSlave10   |  1   | 10.99.20.106 | 16033 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave11   |  1   | 10.99.20.106 | 16040 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave12   |  1   | 10.99.20.106 | 16047 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave13   |  1   | 10.99.20.106 | 16054 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave14   |  1   | 10.99.20.106 | 16061 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave15   |  1   | 10.99.20.106 | 16068 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave16   |  1   | 10.99.20.106 | 16075 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave17   |  1   | 10.99.20.106 | 16082 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave6    |  1   | 10.99.20.106 | 16005 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave7    |  1   | 10.99.20.106 | 16012 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave8    |  1   | 10.99.20.106 | 16019 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
+| coreSlave9    |  1   | 10.99.20.106 | 16026 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
++---------------+------+--------------+-------+------------------------------------+--------------+
+
+[1;32;40mHosts running in this title: 2
+Current Users in the masseffect-3-wiiu game: 4
+[0;37;40m
+---------------------------------------------------------------------------------------
+
+Ips for coreSlave boxes
++--------------+------------------------------------+--------------+
+| Internal IP  |          Internal Domain           | External IP  |
++--------------+------------------------------------+--------------+
+| 10.99.20.105 | 369740-gosprapp372.rspc-lhr.ea.com | 92.52.77.219 |
+| 10.99.20.106 | 369742-gosprapp373.rspc-lhr.ea.com | 92.52.77.220 |
++--------------+------------------------------------+--------------+
+
+Comparison between cfg an redirector instances number
++-------------+---------------+-----------------+
+| Host Domain | Cfg Instances | Redir Instances |
++-------------+---------------+-----------------+
++-------------+---------------+-----------------+
+
+[1;32;40m Number of instances in the cfg file : 0
+[1;32;40m Number of instances used in this title (in redirector): 29
+[1;31;40m
+
+--------------------------------W A R N I N G-----------------------------------------------------
+-------------------------------------------------------------------------------------------------
+The number of instances registered in redirector is different than the specified in the .cfg file
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+[0;37;40m

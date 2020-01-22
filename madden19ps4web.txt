@@ -1,0 +1,52 @@
+http://internal.gosredirector.online.ea.com:42125/redirector/getServerList?name=madden-2019-ps4-web$
+Processing .....
+
+---------- DETAILED DATA ---------
+
+
+('Servicename: ', 'madden-2019-ps4-web')
+('Project Title: ', [])
+('JiraOTName: ', [])
+('Datacenter: ', [])
+('CL: ', ['Blaze 15.1.1.7.1 (CL# 1424988)'])
+('Depot Location: ', ['gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/Madden/2019/Gen4/DL_Default/blazeserver'])
+('Build Location: ', ['519@m19buildapp001.bio-sjc.ea.com:/opt/home/madden/p4/mansible/Madden/2019/Gen4/DL_Default/blazeserver'])
+
+---------- INSTANCES ---------
+ 
+['configMaster0', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['coreNSMaster1', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['coreMaster2', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['coreMaster3', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['osdkAuxMaster12', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['odtAuxMaster14', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['madAuxMaster16', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['mutAuxMaster18', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['cmrAuxMaster21', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['cmwAuxMaster23', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['grSlave6', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['grSlave7', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['searchSlave8', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['searchSlave9', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['mmSlave10', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['mmSlave11', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['osdkAuxSlave13', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['odtAuxSlave15', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['madAuxSlave17', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['mutAuxSlave19', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['mehAuxSlave20', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['cmrAuxSlave22', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['cmwAuxSlave24', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['coreSlave4', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+['coreSlave5', '1', 'eatiburonl0081.bio-sjc.ea.com', '10.75.5.165']
+('Running Instances: ', 25)
+
+
+
+
+---------- RESUME DATA ----------
+
+
+('Hosts in: ', 'madden-2019-ps4-web')
+eatiburonl0081.bio-sjc.ea.com
+('Number of hosts used in this title: ', 1)

@@ -1,0 +1,21 @@
+{
+    "nba-2016-ps4": [
+        "configMaster0",
+        "coreNSMaster1",
+        "coreMaster2",
+        "osdkMaster4",
+        "nbaMaster5",
+        "coreSlave14",
+        "coreSlave15",
+        "nbaSlave3",
+        "osdkSlave6",
+        "osdkSlave7",
+        "grSlave8",
+        "grSlave9",
+        "searchSlave10",
+        "searchSlave11",
+        "mmSlave12",
+        "mmSlave13",
+        "nbaSlave16"
+    ]
+}

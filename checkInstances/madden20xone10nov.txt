@@ -1,0 +1,605 @@
+('SearchUrl: ', 'http://tools.internal.gosredirector.ea.com:42125/redirector/getServerList?name=madden-2020-xone$')
+Processing, please wait ..... 
+http://m20prod-cos-bm-01.iad1.infery.com:10155/blazecontroller/getStatus
+#
+http://m20prod-cos-bm-01.iad1.infery.com:10170/blazecontroller/getStatus
+##
+http://m20prod-cos-bm-01.iad1.infery.com:10200/blazecontroller/getStatus
+###
+http://m20prod-cos-bm-01.iad1.infery.com:10185/blazecontroller/getStatus
+####
+http://m20prod-cos-bm-01.iad1.infery.com:10230/blazecontroller/getStatus
+#####
+http://m20prod-cos-bm-01.iad1.infery.com:10215/blazecontroller/getStatus
+######
+http://m20prod-cos-bm-01.iad1.infery.com:10140/blazecontroller/getStatus
+#######
+http://m20prod-cos-bm-02.iad1.infery.com:10155/blazecontroller/getStatus
+########
+http://m20prod-cos-bm-02.iad1.infery.com:10125/blazecontroller/getStatus
+#########
+http://m20prod-cos-bm-02.iad1.infery.com:10185/blazecontroller/getStatus
+##########
+http://m20prod-cos-bm-02.iad1.infery.com:10215/blazecontroller/getStatus
+###########
+http://m20prod-cos-bm-02.iad1.infery.com:10230/blazecontroller/getStatus
+############
+http://m20prod-cos-bm-02.iad1.infery.com:10200/blazecontroller/getStatus
+#############
+http://m20prod-cos-bm-02.iad1.infery.com:10170/blazecontroller/getStatus
+##############
+http://m20prod-cos-bm-02.iad1.infery.com:10140/blazecontroller/getStatus
+###############
+http://m20prod-cos-bm-03.iad1.infery.com:10230/blazecontroller/getStatus
+################
+http://m20prod-cos-bm-03.iad1.infery.com:10185/blazecontroller/getStatus
+#################
+http://m20prod-cos-bm-03.iad1.infery.com:10155/blazecontroller/getStatus
+##################
+http://m20prod-cos-bm-03.iad1.infery.com:10215/blazecontroller/getStatus
+###################
+http://m20prod-cos-bm-03.iad1.infery.com:10200/blazecontroller/getStatus
+####################
+http://m20prod-cos-bm-03.iad1.infery.com:10170/blazecontroller/getStatus
+#####################
+http://m20prod-cos-bm-03.iad1.infery.com:10140/blazecontroller/getStatus
+######################
+http://m20prod-cos-bm-04.iad1.infery.com:10230/blazecontroller/getStatus
+#######################
+http://m20prod-cos-bm-04.iad1.infery.com:10125/blazecontroller/getStatus
+########################
+http://m20prod-cos-bm-04.iad1.infery.com:10140/blazecontroller/getStatus
+#########################
+http://m20prod-cos-bm-04.iad1.infery.com:10170/blazecontroller/getStatus
+##########################
+http://m20prod-cos-bm-04.iad1.infery.com:10155/blazecontroller/getStatus
+###########################
+http://m20prod-cos-bm-04.iad1.infery.com:10215/blazecontroller/getStatus
+############################
+http://m20prod-cos-bm-04.iad1.infery.com:10200/blazecontroller/getStatus
+#############################
+http://m20prod-cos-bm-04.iad1.infery.com:10185/blazecontroller/getStatus
+##############################
+http://m20prod-master-bm-01.iad1.infery.com:10010/blazecontroller/getStatus
+###############################
+http://m20prod-master-bm-01.iad1.infery.com:10019/blazecontroller/getStatus
+################################
+http://m20prod-master-bm-01.iad1.infery.com:10064/blazecontroller/getStatus
+#################################
+http://m20prod-master-bm-01.iad1.infery.com:10190/blazecontroller/getStatus
+##################################
+http://m20prod-master-bm-01.iad1.infery.com:10181/blazecontroller/getStatus
+###################################
+http://m20prod-master-bm-01.iad1.infery.com:10208/blazecontroller/getStatus
+####################################
+http://m20prod-master-bm-01.iad1.infery.com:10037/blazecontroller/getStatus
+#####################################
+http://m20prod-master-bm-01.iad1.infery.com:10082/blazecontroller/getStatus
+######################################
+http://m20prod-master-bm-01.iad1.infery.com:10055/blazecontroller/getStatus
+#######################################
+http://m20prod-master-bm-01.iad1.infery.com:10028/blazecontroller/getStatus
+########################################
+http://m20prod-master-bm-01.iad1.infery.com:10073/blazecontroller/getStatus
+#########################################
+http://m20prod-master-bm-01.iad1.infery.com:10100/blazecontroller/getStatus
+##########################################
+http://m20prod-master-bm-01.iad1.infery.com:10091/blazecontroller/getStatus
+###########################################
+http://m20prod-master-bm-01.iad1.infery.com:10046/blazecontroller/getStatus
+############################################
+http://m20prod-master-bm-01.iad1.infery.com:10199/blazecontroller/getStatus
+#############################################
+http://m20prod-master-bm-01.iad1.infery.com:10109/blazecontroller/getStatus
+##############################################
+http://m20prod-master-bm-01.iad1.infery.com:10136/blazecontroller/getStatus
+###############################################
+http://m20prod-master-bm-01.iad1.infery.com:10154/blazecontroller/getStatus
+################################################
+http://m20prod-master-bm-01.iad1.infery.com:10145/blazecontroller/getStatus
+#################################################
+http://m20prod-master-bm-01.iad1.infery.com:10118/blazecontroller/getStatus
+##################################################
+http://m20prod-master-bm-01.iad1.infery.com:10127/blazecontroller/getStatus
+###################################################
+http://m20prod-master-bm-01.iad1.infery.com:10163/blazecontroller/getStatus
+####################################################
+http://m20prod-master-bm-01.iad1.infery.com:10172/blazecontroller/getStatus
+#####################################################
+http://m20prod-master-bm-01.iad1.infery.com:10226/blazecontroller/getStatus
+######################################################
+http://m20prod-master-bm-01.iad1.infery.com:10235/blazecontroller/getStatus
+#######################################################
+http://m20prod-master-bm-01.iad1.infery.com:10217/blazecontroller/getStatus
+########################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10001/blazecontroller/getStatus
+#########################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10163/blazecontroller/getStatus
+##########################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10208/blazecontroller/getStatus
+###########################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10010/blazecontroller/getStatus
+############################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10019/blazecontroller/getStatus
+#############################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10091/blazecontroller/getStatus
+##############################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10028/blazecontroller/getStatus
+###############################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10244/blazecontroller/getStatus
+################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10037/blazecontroller/getStatus
+#################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10073/blazecontroller/getStatus
+##################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10145/blazecontroller/getStatus
+###################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10172/blazecontroller/getStatus
+####################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10082/blazecontroller/getStatus
+#####################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10127/blazecontroller/getStatus
+######################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10154/blazecontroller/getStatus
+#######################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10136/blazecontroller/getStatus
+########################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10100/blazecontroller/getStatus
+#########################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10235/blazecontroller/getStatus
+##########################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10055/blazecontroller/getStatus
+###########################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10190/blazecontroller/getStatus
+############################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10181/blazecontroller/getStatus
+#############################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10109/blazecontroller/getStatus
+##############################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10046/blazecontroller/getStatus
+###############################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10217/blazecontroller/getStatus
+################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10118/blazecontroller/getStatus
+#################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10199/blazecontroller/getStatus
+##################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10226/blazecontroller/getStatus
+###################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10064/blazecontroller/getStatus
+####################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10361/blazecontroller/getStatus
+#####################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10352/blazecontroller/getStatus
+######################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10262/blazecontroller/getStatus
+#######################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10370/blazecontroller/getStatus
+########################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10325/blazecontroller/getStatus
+#########################################################################################
+http://m20prod-mut-bm-01.iad1.infery.com:10253/blazecontroller/getStatus
+##########################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10199/blazecontroller/getStatus
+###########################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10181/blazecontroller/getStatus
+############################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10208/blazecontroller/getStatus
+#############################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10136/blazecontroller/getStatus
+##############################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10028/blazecontroller/getStatus
+###############################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10010/blazecontroller/getStatus
+################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10244/blazecontroller/getStatus
+#################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10001/blazecontroller/getStatus
+##################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10019/blazecontroller/getStatus
+###################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10163/blazecontroller/getStatus
+####################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10037/blazecontroller/getStatus
+#####################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10064/blazecontroller/getStatus
+######################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10226/blazecontroller/getStatus
+#######################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10127/blazecontroller/getStatus
+########################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10172/blazecontroller/getStatus
+#########################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10091/blazecontroller/getStatus
+##########################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10145/blazecontroller/getStatus
+###########################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10235/blazecontroller/getStatus
+############################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10046/blazecontroller/getStatus
+#############################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10109/blazecontroller/getStatus
+##############################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10073/blazecontroller/getStatus
+###############################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10100/blazecontroller/getStatus
+################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10082/blazecontroller/getStatus
+#################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10217/blazecontroller/getStatus
+##################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10190/blazecontroller/getStatus
+###################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10055/blazecontroller/getStatus
+####################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10154/blazecontroller/getStatus
+#####################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10118/blazecontroller/getStatus
+######################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10253/blazecontroller/getStatus
+#######################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10262/blazecontroller/getStatus
+########################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10298/blazecontroller/getStatus
+#########################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10334/blazecontroller/getStatus
+##########################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10361/blazecontroller/getStatus
+###########################################################################################################################
+http://m20prod-mut-bm-02.iad1.infery.com:10370/blazecontroller/getStatus
+############################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10001/blazecontroller/getStatus
+#############################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10091/blazecontroller/getStatus
+##############################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10010/blazecontroller/getStatus
+###############################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10208/blazecontroller/getStatus
+################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10163/blazecontroller/getStatus
+#################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10181/blazecontroller/getStatus
+##################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10154/blazecontroller/getStatus
+###################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10136/blazecontroller/getStatus
+####################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10055/blazecontroller/getStatus
+#####################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10172/blazecontroller/getStatus
+######################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10127/blazecontroller/getStatus
+#######################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10100/blazecontroller/getStatus
+########################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10244/blazecontroller/getStatus
+#########################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10064/blazecontroller/getStatus
+##########################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10145/blazecontroller/getStatus
+###########################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10199/blazecontroller/getStatus
+############################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10190/blazecontroller/getStatus
+#############################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10073/blazecontroller/getStatus
+##############################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10118/blazecontroller/getStatus
+###############################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10235/blazecontroller/getStatus
+################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10019/blazecontroller/getStatus
+#################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10037/blazecontroller/getStatus
+##################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10226/blazecontroller/getStatus
+###################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10082/blazecontroller/getStatus
+####################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10046/blazecontroller/getStatus
+#####################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10109/blazecontroller/getStatus
+######################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10217/blazecontroller/getStatus
+#######################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10028/blazecontroller/getStatus
+########################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10280/blazecontroller/getStatus
+#########################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10352/blazecontroller/getStatus
+##########################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10343/blazecontroller/getStatus
+###########################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10298/blazecontroller/getStatus
+############################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10253/blazecontroller/getStatus
+#############################################################################################################################################################
+http://m20prod-mut-bm-03.iad1.infery.com:10307/blazecontroller/getStatus
+##############################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10028/blazecontroller/getStatus
+###############################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10118/blazecontroller/getStatus
+################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10019/blazecontroller/getStatus
+#################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10082/blazecontroller/getStatus
+##################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10046/blazecontroller/getStatus
+###################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10001/blazecontroller/getStatus
+####################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10010/blazecontroller/getStatus
+#####################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10199/blazecontroller/getStatus
+######################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10208/blazecontroller/getStatus
+#######################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10037/blazecontroller/getStatus
+########################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10091/blazecontroller/getStatus
+#########################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10244/blazecontroller/getStatus
+##########################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10064/blazecontroller/getStatus
+###########################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10172/blazecontroller/getStatus
+############################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10226/blazecontroller/getStatus
+#############################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10136/blazecontroller/getStatus
+##############################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10235/blazecontroller/getStatus
+###############################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10109/blazecontroller/getStatus
+################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10181/blazecontroller/getStatus
+#################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10127/blazecontroller/getStatus
+##################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10055/blazecontroller/getStatus
+###################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10145/blazecontroller/getStatus
+####################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10190/blazecontroller/getStatus
+#####################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10073/blazecontroller/getStatus
+######################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10100/blazecontroller/getStatus
+#######################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10217/blazecontroller/getStatus
+########################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10154/blazecontroller/getStatus
+#########################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10163/blazecontroller/getStatus
+##########################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10334/blazecontroller/getStatus
+###########################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10370/blazecontroller/getStatus
+############################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10352/blazecontroller/getStatus
+#############################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10316/blazecontroller/getStatus
+##############################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10307/blazecontroller/getStatus
+###############################################################################################################################################################################################
+http://m20prod-mut-bm-04.iad1.infery.com:10289/blazecontroller/getStatus
+################################################################################################################################################################################################
+('Boxes Instances: ', [['m20prod-mut-bm-03.iad1.infery.com', 34], ['m20prod-cos-bm-02.iad1.infery.com', 8], ['m20prod-cos-bm-01.iad1.infery.com', 7], ['m20prod-mut-bm-04.iad1.infery.com', 34], ['m20prod-mut-bm-01.iad1.infery.com', 34], ['m20prod-mut-bm-02.iad1.infery.com', 34], ['m20prod-cos-bm-04.iad1.infery.com', 8], ['m20prod-cos-bm-03.iad1.infery.com', 7], ['m20prod-master-bm-01.iad1.infery.com', 27]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '15.1.1.8.3')
+('Servicename: ', 'madden-2020-xone')
+('Project Title: ', [u'None'])
+('JiraOTName: ', [u'Madden 2020 Xbox ONE'])
+('Datacenter: ', [u'unknown'])
+('CL: ', '1532933)')
+('Depot Location: ', 'gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/Madden/2020/Gen4/RL/blazeserver')
+('Build Location: ', '519@m19buildapp001.bio-sjc.ea.com:/opt/home/madden/p4/mansible/Madden/2020/Gen4/RL/blazeserver')
+('Running in the path: ', '/opt/home/madden/madden-2020-xone/build/blaze-20191108T115946/etc')
+
+---------- GENERAL INSTANCES INFO --------- 
++-----------------+------+--------------+-------+--------------------------------------+--------+
+| Instance        | Serv |    Int IP    |  Port |               Dom Name               | Ext IP |
++-----------------+------+--------------+-------+--------------------------------------+--------+
+| coreSlave125    |  1   | 10.76.120.25 | 10230 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave126    |  1   | 10.76.120.25 | 10125 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave127    |  1   | 10.76.120.25 | 10140 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave128    |  1   | 10.76.120.25 | 10170 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave129    |  1   | 10.76.120.25 | 10155 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave130    |  1   | 10.76.120.25 | 10215 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave131    |  1   | 10.76.120.25 | 10200 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave132    |  1   | 10.76.120.25 | 10185 |  m20prod-cos-bm-04.iad1.infery.com   |        |
+| coreSlave75     |  1   | 10.76.120.26 | 10155 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave76     |  1   | 10.76.120.26 | 10125 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave77     |  1   | 10.76.120.26 | 10185 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave78     |  1   | 10.76.120.26 | 10215 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave79     |  1   | 10.76.120.26 | 10230 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave80     |  1   | 10.76.120.26 | 10200 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave81     |  1   | 10.76.120.26 | 10170 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave82     |  1   | 10.76.120.26 | 10140 |  m20prod-cos-bm-02.iad1.infery.com   |        |
+| coreSlave50     |  1   | 10.76.120.27 | 10155 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave51     |  1   | 10.76.120.27 | 10170 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave52     |  1   | 10.76.120.27 | 10200 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave53     |  1   | 10.76.120.27 | 10185 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave54     |  1   | 10.76.120.27 | 10230 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave55     |  1   | 10.76.120.27 | 10215 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave56     |  1   | 10.76.120.27 | 10140 |  m20prod-cos-bm-01.iad1.infery.com   |        |
+| coreSlave100    |  1   | 10.76.120.28 | 10230 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| coreSlave101    |  1   | 10.76.120.28 | 10185 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| coreSlave102    |  1   | 10.76.120.28 | 10155 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| coreSlave103    |  1   | 10.76.120.28 | 10215 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| coreSlave104    |  1   | 10.76.120.28 | 10200 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| coreSlave105    |  1   | 10.76.120.28 | 10170 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| coreSlave106    |  1   | 10.76.120.28 | 10140 |  m20prod-cos-bm-03.iad1.infery.com   |        |
+| mohAuxSlave300  |  1   | 10.76.120.33 | 10028 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave301  |  1   | 10.76.120.33 | 10118 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave302  |  1   | 10.76.120.33 | 10019 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave303  |  1   | 10.76.120.33 | 10082 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave304  |  1   | 10.76.120.33 | 10046 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave305  |  1   | 10.76.120.33 | 10001 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave306  |  1   | 10.76.120.33 | 10010 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave307  |  1   | 10.76.120.33 | 10199 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave308  |  1   | 10.76.120.33 | 10208 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave309  |  1   | 10.76.120.33 | 10037 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave310  |  1   | 10.76.120.33 | 10091 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave311  |  1   | 10.76.120.33 | 10244 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave312  |  1   | 10.76.120.33 | 10064 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave313  |  1   | 10.76.120.33 | 10172 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave314  |  1   | 10.76.120.33 | 10226 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave315  |  1   | 10.76.120.33 | 10136 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave316  |  1   | 10.76.120.33 | 10235 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave317  |  1   | 10.76.120.33 | 10109 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave318  |  1   | 10.76.120.33 | 10181 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave319  |  1   | 10.76.120.33 | 10127 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave320  |  1   | 10.76.120.33 | 10055 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave321  |  1   | 10.76.120.33 | 10145 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave322  |  1   | 10.76.120.33 | 10190 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave323  |  1   | 10.76.120.33 | 10073 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave324  |  1   | 10.76.120.33 | 10100 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave325  |  1   | 10.76.120.33 | 10217 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave326  |  1   | 10.76.120.33 | 10154 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave327  |  1   | 10.76.120.33 | 10163 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave328  |  1   | 10.76.120.33 | 10334 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave329  |  1   | 10.76.120.33 | 10370 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave330  |  1   | 10.76.120.33 | 10352 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave331  |  1   | 10.76.120.33 | 10316 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave332  |  1   | 10.76.120.33 | 10307 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave333  |  1   | 10.76.120.33 | 10289 |  m20prod-mut-bm-04.iad1.infery.com   |        |
+| mohAuxSlave200  |  1   | 10.76.120.34 | 10199 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave201  |  1   | 10.76.120.34 | 10181 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave202  |  1   | 10.76.120.34 | 10208 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave203  |  1   | 10.76.120.34 | 10136 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave204  |  1   | 10.76.120.34 | 10028 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave205  |  1   | 10.76.120.34 | 10010 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave206  |  1   | 10.76.120.34 | 10244 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave207  |  1   | 10.76.120.34 | 10001 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave208  |  1   | 10.76.120.34 | 10019 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave209  |  1   | 10.76.120.34 | 10163 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave210  |  1   | 10.76.120.34 | 10037 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave211  |  1   | 10.76.120.34 | 10064 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave212  |  1   | 10.76.120.34 | 10226 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave213  |  1   | 10.76.120.34 | 10127 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave214  |  1   | 10.76.120.34 | 10172 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave215  |  1   | 10.76.120.34 | 10091 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave216  |  1   | 10.76.120.34 | 10145 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave217  |  1   | 10.76.120.34 | 10235 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave218  |  1   | 10.76.120.34 | 10046 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave219  |  1   | 10.76.120.34 | 10109 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave220  |  1   | 10.76.120.34 | 10073 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave221  |  1   | 10.76.120.34 | 10100 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave222  |  1   | 10.76.120.34 | 10082 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave223  |  1   | 10.76.120.34 | 10217 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave224  |  1   | 10.76.120.34 | 10190 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave225  |  1   | 10.76.120.34 | 10055 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave226  |  1   | 10.76.120.34 | 10154 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave227  |  1   | 10.76.120.34 | 10118 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave228  |  1   | 10.76.120.34 | 10253 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave229  |  1   | 10.76.120.34 | 10262 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave230  |  1   | 10.76.120.34 | 10298 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave231  |  1   | 10.76.120.34 | 10334 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave232  |  1   | 10.76.120.34 | 10361 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave233  |  1   | 10.76.120.34 | 10370 |  m20prod-mut-bm-02.iad1.infery.com   |        |
+| mohAuxSlave250  |  1   | 10.76.120.35 | 10001 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave251  |  1   | 10.76.120.35 | 10091 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave252  |  1   | 10.76.120.35 | 10010 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave253  |  1   | 10.76.120.35 | 10208 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave254  |  1   | 10.76.120.35 | 10163 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave255  |  1   | 10.76.120.35 | 10181 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave256  |  1   | 10.76.120.35 | 10154 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave257  |  1   | 10.76.120.35 | 10136 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave258  |  1   | 10.76.120.35 | 10055 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave259  |  1   | 10.76.120.35 | 10172 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave260  |  1   | 10.76.120.35 | 10127 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave261  |  1   | 10.76.120.35 | 10100 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave262  |  1   | 10.76.120.35 | 10244 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave263  |  1   | 10.76.120.35 | 10064 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave264  |  1   | 10.76.120.35 | 10145 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave265  |  1   | 10.76.120.35 | 10199 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave266  |  1   | 10.76.120.35 | 10190 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave267  |  1   | 10.76.120.35 | 10073 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave268  |  1   | 10.76.120.35 | 10118 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave269  |  1   | 10.76.120.35 | 10235 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave270  |  1   | 10.76.120.35 | 10019 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave271  |  1   | 10.76.120.35 | 10037 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave272  |  1   | 10.76.120.35 | 10226 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave273  |  1   | 10.76.120.35 | 10082 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave274  |  1   | 10.76.120.35 | 10046 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave275  |  1   | 10.76.120.35 | 10109 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave276  |  1   | 10.76.120.35 | 10217 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave277  |  1   | 10.76.120.35 | 10028 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave278  |  1   | 10.76.120.35 | 10280 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave279  |  1   | 10.76.120.35 | 10352 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave280  |  1   | 10.76.120.35 | 10343 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave281  |  1   | 10.76.120.35 | 10298 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave282  |  1   | 10.76.120.35 | 10253 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave283  |  1   | 10.76.120.35 | 10307 |  m20prod-mut-bm-03.iad1.infery.com   |        |
+| mohAuxSlave150  |  1   | 10.76.120.36 | 10001 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave151  |  1   | 10.76.120.36 | 10163 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave152  |  1   | 10.76.120.36 | 10208 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave153  |  1   | 10.76.120.36 | 10010 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave154  |  1   | 10.76.120.36 | 10019 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave155  |  1   | 10.76.120.36 | 10091 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave156  |  1   | 10.76.120.36 | 10028 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave157  |  1   | 10.76.120.36 | 10244 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave158  |  1   | 10.76.120.36 | 10037 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave159  |  1   | 10.76.120.36 | 10073 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave160  |  1   | 10.76.120.36 | 10145 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave161  |  1   | 10.76.120.36 | 10172 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave162  |  1   | 10.76.120.36 | 10082 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave163  |  1   | 10.76.120.36 | 10127 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave164  |  1   | 10.76.120.36 | 10154 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave165  |  1   | 10.76.120.36 | 10136 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave166  |  1   | 10.76.120.36 | 10100 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave167  |  1   | 10.76.120.36 | 10235 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave168  |  1   | 10.76.120.36 | 10055 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave169  |  1   | 10.76.120.36 | 10190 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave170  |  1   | 10.76.120.36 | 10181 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave171  |  1   | 10.76.120.36 | 10109 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave172  |  1   | 10.76.120.36 | 10046 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave173  |  1   | 10.76.120.36 | 10217 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave174  |  1   | 10.76.120.36 | 10118 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave175  |  1   | 10.76.120.36 | 10199 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave176  |  1   | 10.76.120.36 | 10226 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave177  |  1   | 10.76.120.36 | 10064 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave178  |  1   | 10.76.120.36 | 10361 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave179  |  1   | 10.76.120.36 | 10352 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave180  |  1   | 10.76.120.36 | 10262 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave181  |  1   | 10.76.120.36 | 10370 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave182  |  1   | 10.76.120.36 | 10325 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| mohAuxSlave183  |  1   | 10.76.120.36 | 10253 |  m20prod-mut-bm-01.iad1.infery.com   |        |
+| configMaster0   |  1   | 10.76.120.39 | ----- | m20prod-master-bm-01.iad1.infery.com | -----  |
+| coreMaster2     |  1   | 10.76.120.39 | 10019 | m20prod-master-bm-01.iad1.infery.com |        |
+| coreMaster23    |  1   | 10.76.120.39 | 10208 | m20prod-master-bm-01.iad1.infery.com |        |
+| coreMaster3     |  1   | 10.76.120.39 | 10064 | m20prod-master-bm-01.iad1.infery.com |        |
+| coreNSMaster1   |  1   | 10.76.120.39 | 10010 | m20prod-master-bm-01.iad1.infery.com |        |
+| gdprAuxSlave12  |  1   | 10.76.120.39 | 10199 | m20prod-master-bm-01.iad1.infery.com |        |
+| grSlave4        |  1   | 10.76.120.39 | 10037 | m20prod-master-bm-01.iad1.infery.com |        |
+| grSlave5        |  1   | 10.76.120.39 | 10082 | m20prod-master-bm-01.iad1.infery.com |        |
+| mmSlave10       |  1   | 10.76.120.39 | 10091 | m20prod-master-bm-01.iad1.infery.com |        |
+| mmSlave11       |  1   | 10.76.120.39 | 10046 | m20prod-master-bm-01.iad1.infery.com |        |
+| mmSlave26       |  1   | 10.76.120.39 | 10217 | m20prod-master-bm-01.iad1.infery.com |        |
+| odtAuxMaster18  |  1   | 10.76.120.39 | 10181 | m20prod-master-bm-01.iad1.infery.com |        |
+| odtAuxSlave19   |  1   | 10.76.120.39 | 10118 | m20prod-master-bm-01.iad1.infery.com |        |
+| odtAuxSlave20   |  1   | 10.76.120.39 | 10127 | m20prod-master-bm-01.iad1.infery.com |        |
+| odtAuxSlave21   |  1   | 10.76.120.39 | 10163 | m20prod-master-bm-01.iad1.infery.com |        |
+| odtAuxSlave22   |  1   | 10.76.120.39 | 10172 | m20prod-master-bm-01.iad1.infery.com |        |
+| osdkAuxMaster13 |  1   | 10.76.120.39 | 10190 | m20prod-master-bm-01.iad1.infery.com |        |
+| osdkAuxSlave14  |  1   | 10.76.120.39 | 10109 | m20prod-master-bm-01.iad1.infery.com |        |
+| osdkAuxSlave15  |  1   | 10.76.120.39 | 10136 | m20prod-master-bm-01.iad1.infery.com |        |
+| osdkAuxSlave16  |  1   | 10.76.120.39 | 10154 | m20prod-master-bm-01.iad1.infery.com |        |
+| osdkAuxSlave17  |  1   | 10.76.120.39 | 10145 | m20prod-master-bm-01.iad1.infery.com |        |
+| searchSlave24   |  1   | 10.76.120.39 | 10226 | m20prod-master-bm-01.iad1.infery.com |        |
+| searchSlave25   |  1   | 10.76.120.39 | 10235 | m20prod-master-bm-01.iad1.infery.com |        |
+| searchSlave6    |  1   | 10.76.120.39 | 10055 | m20prod-master-bm-01.iad1.infery.com |        |
+| searchSlave7    |  1   | 10.76.120.39 | 10028 | m20prod-master-bm-01.iad1.infery.com |        |
+| searchSlave8    |  1   | 10.76.120.39 | 10073 | m20prod-master-bm-01.iad1.infery.com |        |
+| searchSlave9    |  1   | 10.76.120.39 | 10100 | m20prod-master-bm-01.iad1.infery.com |        |
++-----------------+------+--------------+-------+--------------------------------------+--------+
+
+[1;32;40mHosts running in this title: 9
+Current Users in the madden-2020-xone game: 35056
+[0;37;40m
+---------------------------------------------------------------------------------------
+

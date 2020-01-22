@@ -1,0 +1,778 @@
+[gosprodfeapp0685.bio-iad.ea.com] Executing task 'anygs'
+[gosprodfeapp0685.bio-iad.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0685.bio-iad.ea.com] out: gosprodfeapp0685.bio-iad.ea.com
+[gosprodfeapp0685.bio-iad.ea.com] out: 627      17103 32203  0 Sep23 ?        00:02:39 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10273,10275,10277,10279,10281,10283,10285,10287,10289,10291,10293,10006 -region=bio-iad -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0685.bio-iad.ea.com] out: calarcon 26544 26543  0 02:31 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0685.bio-iad.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0685.bio-iad.ea.com... done.
+[b57v382-gosprodfeapp7125.i3d-gru.ea.com] Executing task 'anygs'
+[b57v382-gosprodfeapp7125.i3d-gru.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[b57v382-gosprodfeapp7125.i3d-gru.ea.com] out: b57v382-gosprodfeapp7125.i3d-gru.ea.com
+[b57v382-gosprodfeapp7125.i3d-gru.ea.com] out: calarcon   6195   6194  0 02:31 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[b57v382-gosprodfeapp7125.i3d-gru.ea.com] out: 
+
+
+Done.
+Disconnecting from b57v382-gosprodfeapp7125.i3d-gru.ea.com... done.
+[gosprodfeapp0691.bio-sjc.ea.com] Executing task 'anygs'
+[gosprodfeapp0691.bio-sjc.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0691.bio-sjc.ea.com] out: gosprodfeapp0691.bio-sjc.ea.com
+[gosprodfeapp0691.bio-sjc.ea.com] out: 627      18034 20211  0 Sep23 ?        00:01:54 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=13168,13170,13172,13174,13176,13178 -region=bio-sjc -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0691.bio-sjc.ea.com] out: calarcon 27117 27114  0 02:31 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0691.bio-sjc.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0691.bio-sjc.ea.com... done.
+[gosprodfeapp7105.bio-iad.ea.com] Executing task 'anygs'
+[gosprodfeapp7105.bio-iad.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7105.bio-iad.ea.com] out: gosprodfeapp7105.bio-iad.ea.com
+[gosprodfeapp7105.bio-iad.ea.com] out: 627      10285  3607  0 Sep23 ?        00:02:40 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10864,10866,10868,10870,10872,10874,10876,10878,10880,10882,10884,10886 -region=bio-iad -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7105.bio-iad.ea.com] out: calarcon 22697 22696  0 02:31 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7105.bio-iad.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7105.bio-iad.ea.com... done.
+[gosprodfeapp7111.ea.com] Executing task 'anygs'
+[gosprodfeapp7111.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7111.ea.com] out: gosprodfeapp7111.eqx-ams.ea.com
+[gosprodfeapp7111.ea.com] out: 627         920 139135  0 Sep23 ?        00:01:29 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10023,10232,10643,10126,10298,10006,10007,10446,10650,10029,10086,10166 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7111.ea.com] out: calarcon  38338  38337  0 02:31 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7111.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7111.ea.com... done.
+[gosprodfeapp537.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp537.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp537.bio-dub.ea.com] out: gosprodfeapp537.bio-dub.ea.com
+[gosprodfeapp537.bio-dub.ea.com] out: calarcon 15461 15460  0 02:31 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp537.bio-dub.ea.com] out: 627      18331 17481  0 Sep23 ?        00:02:24 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10829,10831,10833,10835,10837,10839,10841,10843,10845,10847,10849,10851 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp537.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp537.bio-dub.ea.com... done.
+[gosprodfeapp541.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp541.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp541.bio-dub.ea.com] out: gosprodfeapp541.bio-dub.ea.com
+[gosprodfeapp541.bio-dub.ea.com] out: calarcon 15305 15304  0 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp541.bio-dub.ea.com] out: 627      30035  9228  0 Sep23 ?        00:02:25 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10836,10838,10840,10842,10844,10846,10848,10850,10852,10854,10856,10857 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp541.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp541.bio-dub.ea.com... done.
+[gosprodfeapp0686.bio-iad.ea.com] Executing task 'anygs'
+[gosprodfeapp0686.bio-iad.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0686.bio-iad.ea.com] out: gosprodfeapp0686.bio-iad.ea.com
+[gosprodfeapp0686.bio-iad.ea.com] out: 627       6046  5055  0 Sep23 ?        00:02:34 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10073,10075,10077,10080,10082,10028,10055,10057,10059,10061,10063,10065 -region=bio-iad -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0686.bio-iad.ea.com] out: calarcon 11240 11239  0 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0686.bio-iad.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0686.bio-iad.ea.com... done.
+[ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com] out: ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com
+[ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com] out: 627       8874  4730  0 Sep23 ?        00:02:36 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com] out: calarcon 18459 18458  1 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-003-gosprodfeapp7162.mpl-fra.ea.com... done.
+[gosprodfeapp7032.ea.com] Executing task 'anygs'
+[gosprodfeapp7032.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7032.ea.com] out: gosprodfeapp7032.eqx-ams.ea.com
+[gosprodfeapp7032.ea.com] out: 627       9195 35380  0 Sep23 ?        00:02:55 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10703,10546,10548,10550,10552,10555,10795,10799,10802,10804,10806,10808 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7032.ea.com] out: calarcon 42088 42087  1 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7032.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7032.ea.com... done.
+[gosprodfeapp7106.bio-iad.ea.com] Executing task 'anygs'
+[gosprodfeapp7106.bio-iad.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7106.bio-iad.ea.com] out: gosprodfeapp7106.bio-iad.ea.com
+[gosprodfeapp7106.bio-iad.ea.com] out: calarcon  1792  1791  0 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7106.bio-iad.ea.com] out: 627      27470 14044  0 Sep23 ?        00:02:11 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10864,10866,10868,10870,10872,10874 -region=bio-iad -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7106.bio-iad.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7106.bio-iad.ea.com... done.
+[gosprodfeapp7112.ea.com] Executing task 'anygs'
+[gosprodfeapp7112.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7112.ea.com] out: gosprodfeapp7112.eqx-ams.ea.com
+[gosprodfeapp7112.ea.com] out: 627       49163 186685  0 Sep23 ?        00:01:32 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10011,10684,10183,10014,10015,10345,10020,10021,10677,10126,10004,10005 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7112.ea.com] out: calarcon  55681  55680  0 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7112.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7112.ea.com... done.
+[ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com] out: ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com
+[ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com] out: calarcon  3453  3452  1 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com] out: 627      34230 11161  0 Sep23 ?        00:02:37 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-005-gosprodfeapp7164.mpl-fra.ea.com... done.
+[GR16T92-gosprodfeapp7040.i3d-syd.ea.com] Executing task 'anygs'
+[GR16T92-gosprodfeapp7040.i3d-syd.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[GR16T92-gosprodfeapp7040.i3d-syd.ea.com] out: gr16t92-gosprodfeapp7040.i3d-syd.ea.com
+[GR16T92-gosprodfeapp7040.i3d-syd.ea.com] out: calarcon  15423  15422  0 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[GR16T92-gosprodfeapp7040.i3d-syd.ea.com] out: 627      145958  63799  0 Sep23 ?        00:01:32 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10405,10407,10608,10609,10429,10037,10038,10315,10007,10008,10321,10337 -region=bio-syd -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[GR16T92-gosprodfeapp7040.i3d-syd.ea.com] out: 
+
+
+Done.
+Disconnecting from GR16T92-gosprodfeapp7040.i3d-syd.ea.com... done.
+[gosprodfeapp7031.ea.com] Executing task 'anygs'
+[gosprodfeapp7031.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7031.ea.com] out: gosprodfeapp7031.eqx-ams.ea.com
+[gosprodfeapp7031.ea.com] out: calarcon  6474  6473  1 02:32 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7031.ea.com] out: 627      26262 37871  0 Sep23 ?        00:02:59 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10389,10390,10501,10869,10821,10469,10191,10377,10320,10355,10357,10445 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7031.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7031.ea.com... done.
+[g61t382-gosprodfeapp7144.i3d-gru.ea.com] Executing task 'anygs'
+[g61t382-gosprodfeapp7144.i3d-gru.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[g61t382-gosprodfeapp7144.i3d-gru.ea.com] out: g61t382-gosprodfeapp7144.i3d-gru.ea.com
+[g61t382-gosprodfeapp7144.i3d-gru.ea.com] out: 627        9852 135335  0 Sep23 ?        00:01:25 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10144,10146,10148,10074,10076,10078,10080,10082,10084,10086,10088,10090 -region=m3d-brz -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[g61t382-gosprodfeapp7144.i3d-gru.ea.com] out: calarcon  96520  96515  0 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[g61t382-gosprodfeapp7144.i3d-gru.ea.com] out: 
+
+
+Done.
+Disconnecting from g61t382-gosprodfeapp7144.i3d-gru.ea.com... done.
+[gosprodfeapp536.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp536.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp536.bio-dub.ea.com] out: gosprodfeapp536.bio-dub.ea.com
+[gosprodfeapp536.bio-dub.ea.com] out: calarcon 24113 24112  0 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp536.bio-dub.ea.com] out: 627      26207 27596  0 Sep23 ?        00:02:27 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10819,10845,10857,10859,10861,10863,10821,10823,10825,10827,10829,10831 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp536.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp536.bio-dub.ea.com... done.
+[ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com] out: ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com
+[ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com] out: 627      28099  6664  0 Sep23 ?        00:02:37 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10144,10146,10148,10150,10152,10154,10156,10158,10160,10162,10164,10166 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com] out: calarcon 38061 38060  1 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-001-gosprodfeapp7160.mpl-fra.ea.com... done.
+[gosprodfeapp535.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp535.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp535.bio-dub.ea.com] out: gosprodfeapp535.bio-dub.ea.com
+[gosprodfeapp535.bio-dub.ea.com] out: calarcon 20405 20404  0 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp535.bio-dub.ea.com] out: 627      22994  6607  0 Sep23 ?        00:02:17 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10841,10826,10828,10830,10832,10836,10838,10842,10844,10846,10848,10850 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp535.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp535.bio-dub.ea.com... done.
+[ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com] Executing task 'anygs'
+[ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com] out: ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com
+[ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com] out: 627      13270 31377  0 Sep23 ?        00:01:34 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=mpl-mex -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com] out: calarcon 30387 30386  1 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-mex-004-gosprodfeapp7153.mpl-mex.ea.com... done.
+[g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com] Executing task 'anygs'
+[g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com] out: g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com
+[g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com] out: calarcon  49103  49102  0 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com] out: 627       87126 119865  0 Sep23 ?        00:01:17 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10144,10146,10148,10150,10152 -region=i3d-jnb -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com] out: 
+
+
+Done.
+Disconnecting from g0k0vb2-gosprodfeapp7147.i3d-jnb.ea.com... done.
+[gosprodfeapp7113.ea.com] Executing task 'anygs'
+[gosprodfeapp7113.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7113.ea.com] out: gosprodfeapp7113.eqx-ams.ea.com
+[gosprodfeapp7113.ea.com] out: 627       47714   1677  0 Sep23 ?        00:01:33 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10004,10005,10061,10854,10322,10855,10008,10009,10102,10814,10023,10733 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7113.ea.com] out: calarcon  55776  55775  0 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7113.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7113.ea.com... done.
+[gosprodfeapp0695.bio-sjc.ea.com] Executing task 'anygs'
+[gosprodfeapp0695.bio-sjc.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0695.bio-sjc.ea.com] out: gosprodfeapp0695.bio-sjc.ea.com
+[gosprodfeapp0695.bio-sjc.ea.com] out: calarcon  4734  4729  0 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0695.bio-sjc.ea.com] out: 627      29674 32207  0 Sep23 ?        00:02:34 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=11008,11010,11012,11014,11016,11018,11020,11022,11024,11026,11028,11030 -region=bio-sjc -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0695.bio-sjc.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0695.bio-sjc.ea.com... done.
+[ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com] out: ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com
+[ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com] out: 627      15068 32394  0 Sep23 ?        00:02:35 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com] out: calarcon 24617 24616  1 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-009-gosprodfeapp7168.mpl-fra.ea.com... done.
+[gosprodfeapp533.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp533.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp533.bio-dub.ea.com] out: gosprodfeapp533.bio-dub.ea.com
+[gosprodfeapp533.bio-dub.ea.com] out: 627       5205 15434  0 Sep23 ?        00:02:21 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10829,10831,10833,10835,10837,10839,10841,10843,10845,10847,10849,10851 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp533.bio-dub.ea.com] out: calarcon 30877 30876  1 02:33 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp533.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp533.bio-dub.ea.com... done.
+[gosprodfeapp7028.ea.com] Executing task 'anygs'
+[gosprodfeapp7028.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7028.ea.com] out: gosprodfeapp7028.eqx-ams.ea.com
+[gosprodfeapp7028.ea.com] out: calarcon 22560 22559  1 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7028.ea.com] out: 627      29120  7303  0 Sep23 ?        00:02:54 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10570,10045,10050,10104,10656,10196,10119,10547,10738,10237,10401,10054 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7028.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7028.ea.com... done.
+[gosprodfeapp7027.ea.com] Executing task 'anygs'
+[gosprodfeapp7027.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7027.ea.com] out: gosprodfeapp7027.eqx-ams.ea.com
+[gosprodfeapp7027.ea.com] out: 627       4356  7926  0 Sep23 ?        00:02:50 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10022,10204,10514,10441,10381,10159,10376,10746,10747,10598,10599,10899 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7027.ea.com] out: calarcon 13662 13661  2 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7027.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7027.ea.com... done.
+[gosprodfeapp538.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp538.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp538.bio-dub.ea.com] out: gosprodfeapp538.bio-dub.ea.com
+[gosprodfeapp538.bio-dub.ea.com] out: calarcon 31219 31218  0 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp538.bio-dub.ea.com] out: 627      32695  8764  0 Sep23 ?        00:02:28 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10763,10765,10767,10769,10771,10773,10775,10777,10779,10781,10782,10784 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp538.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp538.bio-dub.ea.com... done.
+[gosprodfeapp07019.ea.com] Executing task 'anygs'
+[gosprodfeapp07019.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp07019.ea.com] out: gosprodfeapp07019.eqx-ams.ea.com
+[gosprodfeapp07019.ea.com] out: 627       8438 22335  0 Sep23 ?        00:02:37 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10363,10499,10500,10068,10146,10147,10436,10672,10289,10382,10383,10049 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp07019.ea.com] out: calarcon 27635 27634  0 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp07019.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp07019.ea.com... done.
+[ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com] out: ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com
+[ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com] out: calarcon  4929  4928  1 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com] out: 627      35405  7148  0 Sep23 ?        00:02:39 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-002-gosprodfeapp7161.mpl-fra.ea.com... done.
+[ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com] out: ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com
+[ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com] out: 627      14836 32376  0 Sep23 ?        00:02:36 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com] out: calarcon 24381 24380  1 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-014-gosprodfeapp7173.mpl-fra.ea.com... done.
+[ff-che-003-gosprodfeapp7158.mpl-maa.ea.com] Executing task 'anygs'
+[ff-che-003-gosprodfeapp7158.mpl-maa.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-che-003-gosprodfeapp7158.mpl-maa.ea.com] out: ff-che-003-gosprodfeapp7158.mpl-maa.ea.com
+[ff-che-003-gosprodfeapp7158.mpl-maa.ea.com] out: calarcon  6720  6719  0 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-che-003-gosprodfeapp7158.mpl-maa.ea.com] out: 627      14223  3816  0 Sep23 ?        00:01:42 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10432,10434,10436,10438,10440,10442 -region=mpl-maa -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-che-003-gosprodfeapp7158.mpl-maa.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-che-003-gosprodfeapp7158.mpl-maa.ea.com... done.
+[ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com] Executing task 'anygs'
+[ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com] out: ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com
+[ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com] out: calarcon 12263 12262  0 02:34 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com] out: 627      12750 29885  0 Sep23 ?        00:02:01 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=mpl-mex -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-mex-005-gosprodfeapp7154.mpl-mex.ea.com... done.
+[fxzw992-gosprodfeapp7047.i3d-dxb.ea.com] Executing task 'anygs'
+[fxzw992-gosprodfeapp7047.i3d-dxb.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[fxzw992-gosprodfeapp7047.i3d-dxb.ea.com] out: fxzw992-gosprodfeapp7047.i3d-dxb.ea.com
+[fxzw992-gosprodfeapp7047.i3d-dxb.ea.com] out: calarcon 103105 103104  0 02:35 pts/1    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[fxzw992-gosprodfeapp7047.i3d-dxb.ea.com] out: 627      138960  53166  0 Sep23 ?        00:01:30 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10730,10733,10735,10737,10739,10742,10567,10569,10572,10574,10577,10580 -region=i3d-dxb -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[fxzw992-gosprodfeapp7047.i3d-dxb.ea.com] out: 
+
+
+Done.
+Disconnecting from fxzw992-gosprodfeapp7047.i3d-dxb.ea.com... done.
+[gosprodfeapp7104.bio-iad.ea.com] Executing task 'anygs'
+[gosprodfeapp7104.bio-iad.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7104.bio-iad.ea.com] out: gosprodfeapp7104.bio-iad.ea.com
+[gosprodfeapp7104.bio-iad.ea.com] out: 627      18240 13455  0 Sep23 ?        00:02:36 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10864,10866,10868,10870,10872,10874,10876,10878,10880,10882,10884,10886 -region=bio-iad -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7104.bio-iad.ea.com] out: calarcon 31212 31211  0 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7104.bio-iad.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7104.bio-iad.ea.com... done.
+[gosprodfeapp534.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp534.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp534.bio-dub.ea.com] out: gosprodfeapp534.bio-dub.ea.com
+[gosprodfeapp534.bio-dub.ea.com] out: calarcon 23295 23294  0 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp534.bio-dub.ea.com] out: 627      28171 25688  0 Sep23 ?        00:02:21 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10828,10830,10832,10834,10836,10838,10840,10842,10844,10846,10849,10851 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp534.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp534.bio-dub.ea.com... done.
+[ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com] out: ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com
+[ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com] out: 627       8236  4317  0 Sep23 ?        00:02:36 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com] out: calarcon 17858 17857  1 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-004-gosprodfeapp7163.mpl-fra.ea.com... done.
+[ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com] out: ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com
+[ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com] out: 627      14953 32332  0 Sep23 ?        00:02:36 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com] out: calarcon 24539 24538  1 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-011-gosprodfeapp7170.mpl-fra.ea.com... done.
+[gosprodfeapp539.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp539.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp539.bio-dub.ea.com] out: gosprodfeapp539.bio-dub.ea.com
+[gosprodfeapp539.bio-dub.ea.com] out: calarcon 10219 10218  0 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp539.bio-dub.ea.com] out: 627      11851 22107  0 Sep23 ?        00:02:23 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10149,10153,10156,10158,10160,10162,10164,10262,10165,10409,10593,10595 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp539.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp539.bio-dub.ea.com... done.
+[gosprodfeapp0674.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp0674.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0674.bio-dub.ea.com] out: gosprodfeapp0674.bio-dub.ea.com
+[gosprodfeapp0674.bio-dub.ea.com] out: 627       3470 27887  0 Sep23 ?        00:02:17 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10754,10756,10758,10760,10791,10793,10020,10165,10167,10724,10726,10728 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0674.bio-dub.ea.com] out: calarcon 14432 14431  0 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0674.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0674.bio-dub.ea.com... done.
+[ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com] Executing task 'anygs'
+[ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com] out: ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com
+[ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com] out: 627      14906 22758  0 Sep23 ?        00:02:06 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10144,10146,10148,10074,10076,10078,10080,10082,10084,10086,10088,10090 -region=mpl-mex -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com] out: calarcon 18044 18043  1 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-mex-003-gosprodfeapp7152.mpl-mex.ea.com... done.
+[bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com] Executing task 'anygs'
+[bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com] out: bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com
+[bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com] out: 627       52189   4344  0 Sep23 ?        00:01:33 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10154,10770,10610,10084,10121,10936,11113,10030,10614,10616,10618,10606 -region=i3d-dxb -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com] out: calarcon  71178  71177  0 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com] out: 
+
+
+Done.
+Disconnecting from bt0zf82-gosprodfeapp7044.i3d-dxb.ea.com... done.
+[gosprodfeapp7023.ea.com] Executing task 'anygs'
+[gosprodfeapp7023.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7023.ea.com] out: gosprodfeapp7023.eqx-ams.ea.com
+[gosprodfeapp7023.ea.com] out: calarcon  6430  6429  0 02:35 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7023.ea.com] out: 627      28042 46996  0 Sep23 ?        00:02:39 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10858,10373,10250,10251,10702,10866,10867,10231,10232,10465,10466,10064 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7023.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7023.ea.com... done.
+[gosprodfeapp7103.bio-iad.ea.com] Executing task 'anygs'
+[gosprodfeapp7103.bio-iad.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7103.bio-iad.ea.com] out: gosprodfeapp7103.bio-iad.ea.com
+[gosprodfeapp7103.bio-iad.ea.com] out: calarcon  1715  1714  0 02:36 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7103.bio-iad.ea.com] out: 627       7260 16256  0 Sep23 ?        00:02:55 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10864,10866,10868,10870,10872,10874,10876,10878,10880,10882,10884,10886 -region=bio-iad -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7103.bio-iad.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7103.bio-iad.ea.com... done.
+[ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com] out: ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com
+[ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com] out: 627      14907 32400  0 Sep23 ?        00:02:37 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com] out: calarcon 24570 24569  1 02:36 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-012-gosprodfeapp7171.mpl-fra.ea.com... done.
+[gosprodfeapp0694.bio-sjc.ea.com] Executing task 'anygs'
+[gosprodfeapp0694.bio-sjc.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0694.bio-sjc.ea.com] out: gosprodfeapp0694.bio-sjc.ea.com
+[gosprodfeapp0694.bio-sjc.ea.com] out: calarcon 22109 22106  0 02:36 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0694.bio-sjc.ea.com] out: 627      28250  2731  0 Sep23 ?        00:02:40 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10419,10421,10423,10425,10427,10429,10430,10432,10434,10436,10438,10440 -region=bio-sjc -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0694.bio-sjc.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0694.bio-sjc.ea.com... done.
+[c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com] Executing task 'anygs'
+[c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com] out: c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com
+[c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com] out: 627      115444   4317  0 Sep23 ?        00:02:36 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10218,10656,10476,10545,10550,10207,10423,10263,10122,10820,10865,10123 -region=i3d-dxb -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com] out: calarcon 144883 144882  1 02:36 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com] out: 
+
+
+Done.
+Disconnecting from c0xwf82-gosprodfeapp7043.i3d-dxb.ea.com... done.
+[4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com] Executing task 'anygs'
+[4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com] out: 4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com
+[4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com] out: 627       42727  86744  0 Sep23 ?        00:01:28 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10288,10290,10292,10294,10296,10298,10005,10007,10009,10011,10013,10015 -region=m3d-nrt -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com] out: calarcon  94601  94600  0 02:36 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com] out: 
+
+
+Done.
+Disconnecting from 4v2ztb2-gosprodfeapp7141.i3d-nrt.ea.com... done.
+[gosprodfeapp7024.ea.com] Executing task 'anygs'
+[gosprodfeapp7024.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7024.ea.com] out: gosprodfeapp7024.eqx-ams.ea.com
+[gosprodfeapp7024.ea.com] out: calarcon 32010 32009  1 02:36 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7024.ea.com] out: 627      46454  2969  0 Sep23 ?        00:02:41 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10224,10871,10330,10331,10002,10582,10605,10864,10865,10258,10259,10557 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7024.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7024.ea.com... done.
+[g62t382-gosprodfeapp7126.i3d-gru.ea.com] Executing task 'anygs'
+[g62t382-gosprodfeapp7126.i3d-gru.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[g62t382-gosprodfeapp7126.i3d-gru.ea.com] out: g62t382-gosprodfeapp7126.i3d-gru.ea.com
+[g62t382-gosprodfeapp7126.i3d-gru.ea.com] out: calarcon 141558 141557  0 02:36 pts/1    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[g62t382-gosprodfeapp7126.i3d-gru.ea.com] out: 
+
+
+Done.
+Disconnecting from g62t382-gosprodfeapp7126.i3d-gru.ea.com... done.
+[gosprodfeapp7026.ea.com] Executing task 'anygs'
+[gosprodfeapp7026.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7026.ea.com] out: gosprodfeapp7026.eqx-ams.ea.com
+[gosprodfeapp7026.ea.com] out: 627      26974 36301  0 Sep23 ?        00:02:54 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10218,10126,10410,10256,10094,10095,10052,10489,10490,10274,10753,10825 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7026.ea.com] out: calarcon 33825 33824  2 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7026.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7026.ea.com... done.
+[fy8v992-gosprodfeapp7048.i3d-dxb.ea.com] Executing task 'anygs'
+[fy8v992-gosprodfeapp7048.i3d-dxb.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[fy8v992-gosprodfeapp7048.i3d-dxb.ea.com] out: fy8v992-gosprodfeapp7048.i3d-dxb.ea.com
+[fy8v992-gosprodfeapp7048.i3d-dxb.ea.com] out: calarcon  47925  47924  0 02:37 pts/1    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[fy8v992-gosprodfeapp7048.i3d-dxb.ea.com] out: 627       82837  53398  0 Sep23 ?        00:01:31 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10213,10215,10217,10012,10013,10166,10078,10080,10024,10026,10029,10031 -region=i3d-dxb -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[fy8v992-gosprodfeapp7048.i3d-dxb.ea.com] out: 
+
+
+Done.
+Disconnecting from fy8v992-gosprodfeapp7048.i3d-dxb.ea.com... done.
+[gosprodfeapp532.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp532.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp532.bio-dub.ea.com] out: gosprodfeapp532.bio-dub.ea.com
+[gosprodfeapp532.bio-dub.ea.com] out: calarcon 11190 11189  0 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp532.bio-dub.ea.com] out: 627      14532 27153  0 Sep23 ?        00:02:26 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10856,10031,10718,10790,10032,10722,10791,10398,10727,10859,10232,10426 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp532.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp532.bio-dub.ea.com... done.
+[ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com] out: ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com
+[ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com] out: 627      15833 33186  0 Sep23 ?        00:02:38 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com] out: calarcon 25494 25493  1 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-010-gosprodfeapp7169.mpl-fra.ea.com... done.
+[gosprodfeapp0687.bio-iad.ea.com] Executing task 'anygs'
+[gosprodfeapp0687.bio-iad.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0687.bio-iad.ea.com] out: gosprodfeapp0687.bio-iad.ea.com
+[gosprodfeapp0687.bio-iad.ea.com] out: 627      16203 30251  0 Sep23 ?        00:02:41 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10507,10509,10511,10513,10701,10703,10705,10707,10709,10711,10713,10715 -region=bio-iad -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0687.bio-iad.ea.com] out: calarcon 19655 19628  0 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0687.bio-iad.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0687.bio-iad.ea.com... done.
+[gosprodfeapp0675.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp0675.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0675.bio-dub.ea.com] out: gosprodfeapp0675.bio-dub.ea.com
+[gosprodfeapp0675.bio-dub.ea.com] out: 627       1632 30756  0 Sep23 ?        00:02:17 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10763,10480,10548,10333,10334,10227,10473,10147,10225,10212,10213,10723 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0675.bio-dub.ea.com] out: calarcon 30046 30007  0 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0675.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0675.bio-dub.ea.com... done.
+[gosprodfeapp0672.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp0672.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0672.bio-dub.ea.com] out: gosprodfeapp0672.bio-dub.ea.com
+[gosprodfeapp0672.bio-dub.ea.com] out: 627       1330 15299  0 Sep23 ?        00:02:21 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10624,10626,10628,10630,10632,10634,10636,10638,10640,10642,10644,10646 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0672.bio-dub.ea.com] out: calarcon 13688 13687  0 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0672.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0672.bio-dub.ea.com... done.
+[gosprodfeapp7110.ea.com] Executing task 'anygs'
+[gosprodfeapp7110.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7110.ea.com] out: gosprodfeapp7110.eqx-ams.ea.com
+[gosprodfeapp7110.ea.com] out: 627       47664 145162  0 Sep23 ?        00:01:31 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10210,10020,10021,10014,10015,10290,10238,10022,10023,10010,10011,10185 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7110.ea.com] out: calarcon  56211  56200  0 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7110.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7110.ea.com... done.
+[gosprodfeapp542.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp542.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp542.bio-dub.ea.com] out: gosprodfeapp542.bio-dub.ea.com
+[gosprodfeapp542.bio-dub.ea.com] out: 627       2114 25341  0 Sep23 ?        00:02:25 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10483,10120,10491,10127,10250,10397,10297,10145,10594,10043,10044,10172 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp542.bio-dub.ea.com] out: calarcon 23367 23236  0 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp542.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp542.bio-dub.ea.com... done.
+[gosprodfeapp7029.ea.com] Executing task 'anygs'
+[gosprodfeapp7029.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7029.ea.com] out: gosprodfeapp7029.eqx-ams.ea.com
+[gosprodfeapp7029.ea.com] out: calarcon  1805  1804  1 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7029.ea.com] out: 627      14888  8472  0 Sep23 ?        00:02:47 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10771,10409,10056,10222,10754,10492,10558,10333,10334,10644,10683,10684 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7029.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7029.ea.com... done.
+[gosprodfeapp07018.ea.com] Executing task 'anygs'
+[gosprodfeapp07018.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp07018.ea.com] out: gosprodfeapp07018.eqx-ams.ea.com
+[gosprodfeapp07018.ea.com] out: 627      12916 30053  0 Sep23 ?        00:02:35 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10384,10763,10513,10862,10432,10491,10717,10718,10755,10864,10865,10603 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp07018.ea.com] out: calarcon 37662 37661  0 02:37 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp07018.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp07018.ea.com... done.
+[gosprodfeapp07017.ea.com] Executing task 'anygs'
+[gosprodfeapp07017.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp07017.ea.com] out: gosprodfeapp07017.eqx-ams.ea.com
+[gosprodfeapp07017.ea.com] out: 627       9875 43908  0 Sep23 ?        00:02:37 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10026,10487,10534,10204,10205,10508,10030,10034,10741,10251,10048,10252 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp07017.ea.com] out: calarcon 21157 21156  0 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp07017.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp07017.ea.com... done.
+[6yk6c72-gosprodfeapp7149.mpl-sin.ea.com] Executing task 'anygs'
+[6yk6c72-gosprodfeapp7149.mpl-sin.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[6yk6c72-gosprodfeapp7149.mpl-sin.ea.com] out: 6yk6c72-gosprodfeapp7149.mpl-sin.ea.com
+[6yk6c72-gosprodfeapp7149.mpl-sin.ea.com] out: calarcon   9119   9118  0 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[6yk6c72-gosprodfeapp7149.mpl-sin.ea.com] out: 627       58643   6351  0 Sep23 ?        00:01:27 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10874,10876,10878,10880,10882,10884,10886,10019,11098 -region=mpl-sin -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[6yk6c72-gosprodfeapp7149.mpl-sin.ea.com] out: 
+
+
+Done.
+Disconnecting from 6yk6c72-gosprodfeapp7149.mpl-sin.ea.com... done.
+[gosprodfeapp07016.ea.com] Executing task 'anygs'
+[gosprodfeapp07016.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp07016.ea.com] out: gosprodfeapp07016.eqx-ams.ea.com
+[gosprodfeapp07016.ea.com] out: 627       5047 44273  0 Sep23 ?        00:02:38 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10587,10396,10397,10716,10075,10787,10755,10756,10626,10364,10154,10214 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp07016.ea.com] out: calarcon 18024 18014  0 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp07016.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp07016.ea.com... done.
+[g62v382-gosprodfeapp7127.i3d-gru.ea.com] Executing task 'anygs'
+[g62v382-gosprodfeapp7127.i3d-gru.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[g62v382-gosprodfeapp7127.i3d-gru.ea.com] out: g62v382-gosprodfeapp7127.i3d-gru.ea.com
+[g62v382-gosprodfeapp7127.i3d-gru.ea.com] out: calarcon  59959  59958  0 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[g62v382-gosprodfeapp7127.i3d-gru.ea.com] out: 627      115008  69378  0 Sep23 ?        00:01:29 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10864,10866,10868,10870,10872,10874,10876,10878,10880,10882,10884,10886 -region=m3d-brz -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[g62v382-gosprodfeapp7127.i3d-gru.ea.com] out: 
+
+
+Done.
+Disconnecting from g62v382-gosprodfeapp7127.i3d-gru.ea.com... done.
+[gosprodfeapp7114.ea.com] Executing task 'anygs'
+[gosprodfeapp7114.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7114.ea.com] out: gosprodfeapp7114.eqx-ams.ea.com
+[gosprodfeapp7114.ea.com] out: 627      169914 183170  0 Sep23 ?        00:01:33 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10021,10016,10017,10405,10684,10314,10000,10001,10263,10485,10022,10023 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7114.ea.com] out: calarcon 177483 177482  0 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7114.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7114.ea.com... done.
+[gosprodfeapp7030.ea.com] Executing task 'anygs'
+[gosprodfeapp7030.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7030.ea.com] out: gosprodfeapp7030.eqx-ams.ea.com
+[gosprodfeapp7030.ea.com] out: calarcon 12093 12092  2 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7030.ea.com] out: 627      30017 28795  0 Sep23 ?        00:02:51 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10767,10010,10011,10362,10570,10006,10007,10139,10834,10817,10484,10107 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7030.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7030.ea.com... done.
+[gosprodfeapp7025.ea.com] Executing task 'anygs'
+[gosprodfeapp7025.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7025.ea.com] out: gosprodfeapp7025.eqx-ams.ea.com
+[gosprodfeapp7025.ea.com] out: 627       2523 12150  0 Sep23 ?        00:03:18 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10205,10344,10699,10306,10498,10336,10305,10677,10678,10531,10282,10283 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7025.ea.com] out: calarcon  3744  3743  3 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7025.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7025.ea.com... done.
+[gosprodfeapp540.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp540.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp540.bio-dub.ea.com] out: gosprodfeapp540.bio-dub.ea.com
+[gosprodfeapp540.bio-dub.ea.com] out: calarcon 18044 18043  0 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp540.bio-dub.ea.com] out: 627      25735  7077  0 Sep23 ?        00:02:22 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10738,10741,10161,10491,10494,10496,10266,10268,10270,10111,10039,10272 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp540.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp540.bio-dub.ea.com... done.
+[gosprodfeapp7108.ea.com] Executing task 'anygs'
+[gosprodfeapp7108.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7108.ea.com] out: gosprodfeapp7108.eqx-ams.ea.com
+[gosprodfeapp7108.ea.com] out: 627        3452 161941  0 Sep23 ?        00:01:33 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10412,10101,10524,10463,10076,10077,10672,10000,10001,10198,10332,10431 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7108.ea.com] out: calarcon  10550  10549  0 02:38 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7108.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7108.ea.com... done.
+[g63q382-gosprodfeapp7128.i3d-gru.ea.com] Executing task 'anygs'
+[g63q382-gosprodfeapp7128.i3d-gru.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[g63q382-gosprodfeapp7128.i3d-gru.ea.com] out: g63q382-gosprodfeapp7128.i3d-gru.ea.com
+[g63q382-gosprodfeapp7128.i3d-gru.ea.com] out: 627       41604  71439  0 Sep23 ?        00:01:33 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10864,10866,10868,10870,10872,10874,10876,10878,10880,10882,10884,10886 -region=m3d-brz -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[g63q382-gosprodfeapp7128.i3d-gru.ea.com] out: calarcon  90623  90622  0 02:38 pts/1    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[g63q382-gosprodfeapp7128.i3d-gru.ea.com] out: 
+
+
+Done.
+Disconnecting from g63q382-gosprodfeapp7128.i3d-gru.ea.com... done.
+[6ygcc72-gosprodfeapp7150.mpl-sin.ea.com] Executing task 'anygs'
+[6ygcc72-gosprodfeapp7150.mpl-sin.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[6ygcc72-gosprodfeapp7150.mpl-sin.ea.com] out: 6ygcc72-gosprodfeapp7150.mpl-sin.ea.com
+[6ygcc72-gosprodfeapp7150.mpl-sin.ea.com] out: calarcon   3363   3362  0 02:39 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[6ygcc72-gosprodfeapp7150.mpl-sin.ea.com] out: 627       16832   6216  0 Sep23 ?        00:01:50 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=mpl-sin -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[6ygcc72-gosprodfeapp7150.mpl-sin.ea.com] out: 
+
+
+Done.
+Disconnecting from 6ygcc72-gosprodfeapp7150.mpl-sin.ea.com... done.
+[gosprodfeapp7033.ea.com] Executing task 'anygs'
+[gosprodfeapp7033.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7033.ea.com] out: gosprodfeapp7033.eqx-ams.ea.com
+[gosprodfeapp7033.ea.com] out: calarcon  3228  3227  1 02:39 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7033.ea.com] out: 627      19582 16834  0 Sep23 ?        00:02:57 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10089,10090,10772,10215,10216,10016,10270,10271,10394,10762,10763,10590 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7033.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7033.ea.com... done.
+[gosprodfeapp7109.ea.com] Executing task 'anygs'
+[gosprodfeapp7109.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp7109.ea.com] out: gosprodfeapp7109.eqx-ams.ea.com
+[gosprodfeapp7109.ea.com] out: 627       56668  34663  0 Sep23 ?        00:01:33 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10127,10411,10274,10479,10028,10290,10789,10850,10787,10691,10004,10005 -region=ea-ams -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp7109.ea.com] out: calarcon  65273  65272  0 02:39 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp7109.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp7109.ea.com... done.
+[ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com] out: ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com
+[ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com] out: 627      14894 32390  0 Sep23 ?        00:02:17 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com] out: calarcon 24591 24590  1 02:39 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-013-gosprodfeapp7172.mpl-fra.ea.com... done.
+[ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com] Executing task 'anygs'
+[ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com] out: ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com
+[ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com] out: 627      15058 32328  0 Sep23 ?        00:02:38 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10000,10002,10004,10006,10008,10010,10012,10014,10016,10018,10020,10022 -region=aws-fra -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com] out: calarcon 24728 24727  1 02:39 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com] out: 
+
+
+Done.
+Disconnecting from ff-fra-008-gosprodfeapp7167.mpl-fra.ea.com... done.
+[817122-gosprodfeapp7020.rspc-hkg.ea.com] Executing task 'anygs'
+[817122-gosprodfeapp7020.rspc-hkg.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[817122-gosprodfeapp7020.rspc-hkg.ea.com] out: 817122-gosprodfeapp7020.rspc-hkg.ea.com
+[817122-gosprodfeapp7020.rspc-hkg.ea.com] out: 627       5122 40325  0 Sep23 ?        00:02:41 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10433,10435,10436,10438,10440,10442,10011,10778,10114,10006,10007,10748 -region=i3d-hkg -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[817122-gosprodfeapp7020.rspc-hkg.ea.com] out: calarcon  6706  6705  0 02:39 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[817122-gosprodfeapp7020.rspc-hkg.ea.com] out: 
+
+
+Done.
+Disconnecting from 817122-gosprodfeapp7020.rspc-hkg.ea.com... done.
+[gosprodfeapp0673.bio-dub.ea.com] Executing task 'anygs'
+[gosprodfeapp0673.bio-dub.ea.com] run: hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep 'portlist' --color=always
+[gosprodfeapp0673.bio-dub.ea.com] out: gosprodfeapp0673.bio-dub.ea.com
+[gosprodfeapp0673.bio-dub.ea.com] out: 627       8926 26338  0 Sep23 ?        00:02:19 /opt/gos-tools/dirtyCast.fifa-2018.ps4.prod.15.1.3.0.4./VM_LinuxT1.9.18.2017_20.58.16.354/voipmetricsf voipmetrics.cfg -diagnosticport=19015 -tier=1 -[01;31m[Kportlist[m[K=10563,10565,10567,10569,10571,10573,10575,10577,10579,10581,10583,10447 -region=bio-dub -logger.cfgfile=voipmetrics_logger.cfg -logger.logfile=VM_LinuxT1_0000/voipmetrics0000.log
+[gosprodfeapp0673.bio-dub.ea.com] out: calarcon 22395 22394  0 02:39 pts/0    00:00:00 /bin/bash -l -c hostname; sleep 1; ps -ef | grep 'dirtyCast.fifa-2018.ps4.prod' | grep '[01;31m[Kportlist[m[K' --color=always
+[gosprodfeapp0673.bio-dub.ea.com] out: 
+
+
+Done.
+Disconnecting from gosprodfeapp0673.bio-dub.ea.com... done.

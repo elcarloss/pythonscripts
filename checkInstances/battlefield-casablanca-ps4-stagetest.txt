@@ -1,0 +1,82 @@
+('SearchUrl: ', 'http://internal.gosredirector.stest.ea.com:42125/redirector/getServerList?name=battlefield-casablanca-ps4-stage$')
+Processing, please wait ..... 
+http://bfvtestappb-01.bio-dub.ea.com:10680/blazecontroller/getStatus
+#
+http://bfvtestappb-01.bio-dub.ea.com:10691/blazecontroller/getStatus
+##
+http://bfvtestappb-01.bio-dub.ea.com:10708/blazecontroller/getStatus
+###
+http://bfvtestappb-01.bio-dub.ea.com:10713/blazecontroller/getStatus
+####
+http://bfvtestappb-01.bio-dub.ea.com:10733/blazecontroller/getStatus
+#####
+http://bfvtestappb-01.bio-dub.ea.com:10728/blazecontroller/getStatus
+######
+http://bfvtestappb-01.bio-dub.ea.com:10703/blazecontroller/getStatus
+#######
+http://bfvtestappb-01.bio-dub.ea.com:10723/blazecontroller/getStatus
+########
+http://bfvtestappb-01.bio-dub.ea.com:10698/blazecontroller/getStatus
+#########
+http://bfvtestappb-01.bio-dub.ea.com:10718/blazecontroller/getStatus
+##########
+http://bfvtestappb-01.bio-dub.ea.com:10805/blazecontroller/getStatus
+###########
+http://bfvtestappb-01.bio-dub.ea.com:10820/blazecontroller/getStatus
+############
+('Boxes Instances: ', [['bfvtestappb-01.bio-dub.ea.com', 13]])
+
+---------- DETAILED DATA ---------
+
+
+('Blaze Version: ', '15.1.1.7.5')
+('Servicename: ', 'battlefield-casablanca-ps4-stage')
+('Project Title: ', [u''])
+('JiraOTName: ', [u''])
+('Datacenter: ', [u'bio-dub'])
+('CL: ', '1541377)')
+('Depot Location: ', 'gds-eadp-p4.rws.ad.ea.com:1777://gosdev/games/Battlefield/Casablanca/retail/stage/blazeserver')
+('Build Location: ', '974@eadpl0041.bio-sjc.ea.com:/opt/home/battlefield/p4/gosdev/games/Battlefield/Casablanca/retail/stage/blazeserver')
+('Running in the path: ', '/opt/home/battlefield/battlefield-casablanca-ps4-stage/build/blaze-20191209T155616/etc')
+
+---------- GENERAL INSTANCES INFO --------- 
++----------------+------+--------------+-------+-------------------------------+---------------+
+| Instance       | Serv |    Int IP    |  Port |            Dom Name           |     Ext IP    |
++----------------+------+--------------+-------+-------------------------------+---------------+
+| configMaster0  |  1   | 10.74.231.77 | ----- | bfvtestappb-01.bio-dub.ea.com |     -----     |
+| coreMaster2    |  1   | 10.74.231.77 | 10713 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| coreMaster3    |  1   | 10.74.231.77 | 10733 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| coreNSMaster1  |  1   | 10.74.231.77 | 10708 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| coreSlave4     |  1   | 10.74.231.77 | 10680 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| coreSlave5     |  1   | 10.74.231.77 | 10691 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| gdprAuxSlave10 |  1   | 10.74.231.77 | 10718 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| grSlave11      |  1   | 10.74.231.77 | 10805 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| grSlave12      |  1   | 10.74.231.77 | 10820 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| mmSlave8       |  1   | 10.74.231.77 | 10723 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| mmSlave9       |  1   | 10.74.231.77 | 10698 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| searchSlave6   |  1   | 10.74.231.77 | 10728 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
+| searchSlave7   |  1   | 10.74.231.77 | 10703 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
++----------------+------+--------------+-------+-------------------------------+---------------+
+
+[1;32;40mHosts running in this title: 1
+[0;37;40m
+---------------------------------------------------------------------------------------
+
+Ips for coreSlave boxes
++--------------+-------------------------------+---------------+
+| Internal IP  |        Internal Domain        |  External IP  |
++--------------+-------------------------------+---------------+
+| 10.74.231.77 | bfvtestappb-01.bio-dub.ea.com | 159.153.58.79 |
++--------------+-------------------------------+---------------+
+
+Comparison between cfg an redirector instances number
++-------------------------------+---------------+-----------------+
+|          Host Domain          | Cfg Instances | Redir Instances |
++-------------------------------+---------------+-----------------+
+| bfvtestappb-01.bio-dub.ea.com |       13      |        13       |
++-------------------------------+---------------+-----------------+
+
+[1;32;40m Number of instances in the cfg file : 13
+[1;32;40m Number of instances used in this title (in redirector): 13
+[1;31;40m
+[0;37;40m
