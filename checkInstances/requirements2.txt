@@ -20,7 +20,7 @@ deepdiff==3.3.0
 defusedxml==0.6.0
 dictdiffer==0.7.1
 docopt==0.6.2
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoints==0.2.3
 enum==0.4.6
 enum34==1.1.6
