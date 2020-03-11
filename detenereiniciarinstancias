@@ -1,0 +1,68 @@
+import time
+
+def get_ec2_con_for_give_region(my_region):
+    ec2_con_re=boto3.resource('ec2',region_name=my_region)
+    return ec2_con_re
+    
+def list_instances_on_my_region(ec2_con_re):
+    for each in ec2_con_re.instances.all():
+        print each.id
+        
+def get_instant_state(ec2_con_re, in_id):
+    for each in ec2_con_re.instances.filter(Filters=[{'Name':'instance-id', "Values":[in_id]}]):
+        pr_st=each.state['Name']            
+    return pr_st
+
+def start_instance(ec2_con_re, in_id):
+    pr_st = get_instant_state(ec2_con_re, in_id)
+    if pr_st = "running":
+        print "La instancia ya esta corriendo"
+    else:
+        for each in ec2_con_re.instances.filter(Filters=[{'Name':'instance_id', "Values":[in_id]}]):
+            each.stop()
+            print"Favor de esperar a que se inicie la instancia, cuando esto suceda se le avisara"
+            each.wait_until_stopped()
+            print"Ya se ha detenido"
+
+
+def stop_instance(ec2_con_re, in_id):
+    pr_st = get_instant_state(ec2_con_re, in_id)
+    if pr_st = "stopped":
+        print "La instancia ya esta detenida"
+    else:
+        for each in ec2_con_re.instances.filter(Filters=[{'Name':'instance_id', "Values":[in_id]}]):
+            each.stop()
+            print"Favor de esperar a que se detenga la instancia, cuando esto suceda se le avisara"
+            each.wait_until_stopped()
+            print"Ya se ha detenido"
+
+def welcome():
+    print"Este script te ayuda a iniciar o detener instancias ec2 basadas en la region o instancia id"
+    time.sleep(3)
+
+def main():
+    welcome()
+    myregion = raw_input("Enter your region name:")
+    print("please wait... connecting to your aws ec2 console...."
+    ec2_con_re = get_ec2_con_for_give_region(myregion)
+    print("Please wait listing all instances ids in your region {}".format(my_region)
+    list_instances_on_my_region(ec2_con_re)
+    in_id = raw_input("Now choose your instance id to start or stop:")
+    start_sotp = raw_input("Enter either stop or start command for your ec2 instance:")
+    while True:
+        if start_sotp not in ["start", "stop"]:
+            start_sotp = raw_input("Enter only stop or start commands:")
+            continue
+        else:
+            break
+
+
+    if start_sotp == "start":
+        start_instance(ec2_con_re, in_id)
+    else:    
+        stop_instance(ec2_con_re, in_id)
+        
+
+if __name__ == '__main__':
+    os.system('cls')
+    main()
