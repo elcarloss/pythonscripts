@@ -1,0 +1,1 @@
+0 */6 * * * calarcon python3 /home/calarcon/updategodaddy/update_godaddy_dns.py

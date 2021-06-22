@@ -1,0 +1,30 @@
+hanks for the reply!
+
+I ended up just deleting gnome and gdm. First i changed the mode arch boots into with
+
+systemctl set-default multi-user.target
+then i ran
+
+pacman -Rncs gdm gnome
+to delete gdm and gnome, i then ran
+
+pacman -S deepin deepin-extra deepin-extras lightdm xorg xorg-utils xorg-xinit
+to install those packages then i followed the wiki to set the greeter to lightdm-deepin-greeter.
+
+Which you currently do by editing
+
+/etc/lightdm/lightdm.conf
+and under
+
+[Seat:*]
+editing the
+
+greeter-session
+variable to
+
+greeter-session=lightdm-deepin-greeter
+, make sure you uncomment it because for me it was commented.
+
+And i almost forgot to run:
+
+systemctl set-default graphical.target
